@@ -1,0 +1,43 @@
+{
+ "episode": "TE09",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/thumb_a.png",
+  "title": "How Touchscreens Work (Why Your Finger Works but Gloves Don't)",
+  "description": "Your phone screen does not feel your finger press. It feels the tiny bit of electrical charge your finger steals. In this video we look at the invisible grid of wires inside a touchscreen, how a controller chip finds the exact spot you touched, why gloves and water confuse it, how old resistive screens were different, and how touchscreens went from a 1965 radar lab to every pocket.\n\nChapters\n00:00 Intro: a screen that feels you\n00:41 Your finger is a conductor\n01:21 What's under the glass\n02:04 How the grid finds your finger\n02:46 How it sees two fingers\n03:28 More precise than the grid\n04:10 Why gloves and water confuse it\n04:50 Resistive screens: press to touch\n05:31 From a radar lab to your pocket\n06:14 The software does the rest\n06:55 Recap in three points\n07:26 Your turn\n\nKey facts (checked November 2026):\n- Projected capacitive screens use a grid of transparent electrodes over the display; a touch changes the capacitance and a controller works out the position (Newhaven Display)\n- Capacitive screens need bare skin, a conductive stylus or special gloves, and are sensitive to moisture; resistive screens work with gloves because they use pressure (Newhaven Display)\n- Resistive screens: two layers coated with indium tin oxide, separated by spacer dots (Newhaven Display)\n- History: E.A. Johnson, Royal Radar Establishment, 1965; Samuel Hurst resistive 1971, transparent 1974; Frank Beck and Bent Stumpe at CERN, 1973; IBM Simon, 1994; LG Prada and iPhone capacitive phones, 2006-2007 (Newhaven Display, Wikipedia)\n- Touch sampling rates on phones are commonly 120 Hz or higher\n\nSources\n- Touchscreen types, history and how they work (Newhaven Display): https://newhavendisplay.com/blog/touchscreen-types-history-how-they-work/\n- Touchscreen (Wikipedia): https://en.wikipedia.org/wiki/Touchscreen\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #touchscreen",
+  "tags": [
+   "how touchscreens work",
+   "capacitive touchscreen",
+   "touchscreen explained",
+   "why gloves don't work on phones",
+   "resistive vs capacitive",
+   "how phone screens work",
+   "multi touch",
+   "touchscreen history",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "19 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short1.mp4",
+   "title": "How your phone finds your finger #shorts",
+   "description": "How your phone finds your finger. Full video on our channel: \"How Touchscreens Work (Why Your Finger Works but Gloves Don't)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "19 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short2.mp4",
+   "title": "Why gloves don't work on phones #shorts",
+   "description": "Why gloves don't work on phones. Full video on our channel: \"How Touchscreens Work (Why Your Finger Works but Gloves Don't)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "19 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short3.mp4",
+   "title": "The touchscreen is older than you think #shorts",
+   "description": "The touchscreen is older than you think. Full video on our channel: \"How Touchscreens Work (Why Your Finger Works but Gloves Don't)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "19 Nov 2026 21:00"
+  }
+ ]
+}
