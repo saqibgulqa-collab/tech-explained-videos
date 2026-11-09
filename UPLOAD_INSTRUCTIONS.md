@@ -723,3 +723,49 @@ The touchscreen is older than you think. Full video on our channel: "How Touchsc
 
 #shorts #techexplained #howitworks
 ```
+
+
+## TE10 — How Starlink Internet Works (Why It's Faster Than Old Satellites)
+- Long video: https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_upload.mp4 (thumbnail: https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/thumb_a.png)
+- Schedule: 20 Nov 2026 01:00 PKT
+- Tags: how starlink works, starlink explained, satellite internet, low earth orbit, how satellite internet works, starlink dish, phased array antenna, starlink latency, tech explained, how it works
+- Description:
+Starlink beams internet from space to a small flat dish. In this video we follow your data from the dish to a satellite and back, see why flying 550 km up instead of 35,786 km makes such a difference, how a dish with no moving parts follows satellites, how lasers pass data through space, and what can still slow it down.
+
+Chapters
+00:00 Intro: internet from space
+00:40 The problem with old satellites
+01:20 Flying much lower
+02:01 From your dish and back
+02:40 A dish with no moving parts
+03:21 Switching satellites on the fly
+04:02 Passing data by laser
+04:42 The gateways to the internet
+05:20 What can slow it down
+05:56 Who it helps
+06:34 Recap in three points
+07:06 Your turn
+
+Key facts (checked November 2026):
+- Starlink's main shell orbits at about 550 km; geostationary satellites sit at 35,786 km, roughly 65 times higher (EarthSims, updated Aug 2026)
+- Geostationary round-trip delay is 600 ms or more; Starlink's real-world latency is typically about 20-50 ms (EarthSims)
+- More than 6,000 satellites launched by early 2026; typical speeds 50-250 Mbps (EarthSims)
+- The dish is a phased-array antenna that steers its beam electronically; it hands off to a new satellite roughly every 15-30 seconds (EarthSims)
+- Newer satellites use laser inter-satellite links; ground stations (gateways) connect to the fibre internet (EarthSims)
+- Light travels about 47% faster in vacuum than in glass fibre (refractive index of about 1.47)
+
+Sources
+- How Starlink Works: Technical Guide for 2026 (EarthSims): https://www.earthsims.com/starlink/how-starlink-works/
+- What Is Starlink in 2026 (MyBestSIM): https://mybestsim.com/?p=157847
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #starlink #howitworks
+- Short 1: https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short1.mp4 | Why Starlink is faster than old satellites #shorts | 2026-11-20 13:00 PKT
+- Short 2: https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short2.mp4 | A dish with no moving parts #shorts | 2026-11-20 17:00 PKT
+- Short 3: https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short3.mp4 | Internet by laser in space #shorts | 2026-11-20 21:00 PKT

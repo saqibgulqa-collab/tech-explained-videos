@@ -1,0 +1,43 @@
+{
+ "episode": "TE10",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/thumb_a.png",
+  "title": "How Starlink Internet Works (Why It's Faster Than Old Satellites)",
+  "description": "Starlink beams internet from space to a small flat dish. In this video we follow your data from the dish to a satellite and back, see why flying 550 km up instead of 35,786 km makes such a difference, how a dish with no moving parts follows satellites, how lasers pass data through space, and what can still slow it down.\n\nChapters\n00:00 Intro: internet from space\n00:40 The problem with old satellites\n01:20 Flying much lower\n02:01 From your dish and back\n02:40 A dish with no moving parts\n03:21 Switching satellites on the fly\n04:02 Passing data by laser\n04:42 The gateways to the internet\n05:20 What can slow it down\n05:56 Who it helps\n06:34 Recap in three points\n07:06 Your turn\n\nKey facts (checked November 2026):\n- Starlink's main shell orbits at about 550 km; geostationary satellites sit at 35,786 km, roughly 65 times higher (EarthSims, updated Aug 2026)\n- Geostationary round-trip delay is 600 ms or more; Starlink's real-world latency is typically about 20-50 ms (EarthSims)\n- More than 6,000 satellites launched by early 2026; typical speeds 50-250 Mbps (EarthSims)\n- The dish is a phased-array antenna that steers its beam electronically; it hands off to a new satellite roughly every 15-30 seconds (EarthSims)\n- Newer satellites use laser inter-satellite links; ground stations (gateways) connect to the fibre internet (EarthSims)\n- Light travels about 47% faster in vacuum than in glass fibre (refractive index of about 1.47)\n\nSources\n- How Starlink Works: Technical Guide for 2026 (EarthSims): https://www.earthsims.com/starlink/how-starlink-works/\n- What Is Starlink in 2026 (MyBestSIM): https://mybestsim.com/?p=157847\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #starlink #howitworks",
+  "tags": [
+   "how starlink works",
+   "starlink explained",
+   "satellite internet",
+   "low earth orbit",
+   "how satellite internet works",
+   "starlink dish",
+   "phased array antenna",
+   "starlink latency",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "2026-11-20 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short1.mp4",
+   "title": "Why Starlink is faster than old satellites #shorts",
+   "description": "Why Starlink is faster than old satellites. Full video on our channel: \"How Starlink Internet Works (Why It's Faster Than Old Satellites)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "2026-11-20 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short2.mp4",
+   "title": "A dish with no moving parts #shorts",
+   "description": "A dish with no moving parts. Full video on our channel: \"How Starlink Internet Works (Why It's Faster Than Old Satellites)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "2026-11-20 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short3.mp4",
+   "title": "Internet by laser in space #shorts",
+   "description": "Internet by laser in space. Full video on our channel: \"How Starlink Internet Works (Why It's Faster Than Old Satellites)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "2026-11-20 21:00"
+  }
+ ]
+}

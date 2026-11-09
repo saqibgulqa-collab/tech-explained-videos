@@ -360,6 +360,41 @@
      "size": 95106436
     }
    ]
+  },
+  {
+   "folder": "TE10",
+   "files": [
+    {
+     "name": "thumb_a.png",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/thumb_a.png",
+     "size": 898118
+    },
+    {
+     "name": "thumb_b.png",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/thumb_b.png",
+     "size": 898141
+    },
+    {
+     "name": "TE10_short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short2.mp4",
+     "size": 8225155
+    },
+    {
+     "name": "TE10_short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short3.mp4",
+     "size": 8396754
+    },
+    {
+     "name": "TE10_short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_short1.mp4",
+     "size": 12651732
+    },
+    {
+     "name": "TE10_upload.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE10/TE10_upload.mp4",
+     "size": 95122712
+    }
+   ]
   }
  ]
 }
