@@ -1,0 +1,43 @@
+{
+ "episode": "TE06",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/thumb_a.png",
+  "title": "Why Phone Batteries Die So Fast (And How to Slow It Down)",
+  "description": "Your phone battery lasts all day when it is new, then slowly fades. In this video we look inside a lithium-ion battery to see what actually wears it out: a protective film that keeps growing and trapping lithium, plus heat, sitting at 100% and draining to zero. Then we cover the simple habits that slow it down.\n\nChapters\n00:00 Intro: where did the battery go?\n00:42 Two garages and a tunnel\n01:25 What is inside a phone battery\n02:06 The film that traps lithium\n02:53 How charge cycles add up\n03:37 Heat: the biggest enemy\n04:22 Why sitting at 100% hurts\n05:09 Deep drains, fast charging and cold\n05:59 Why an old battery feels slow\n06:44 Simple habits that help\n07:26 Recap in three points\n07:55 Your turn\n\nKey figures (checked November 2026):\n- iPhone 14 and earlier: about 80% capacity after 500 full cycles; iPhone 15 and later: 1,000 cycles, under ideal conditions (MacRumors, Apple)\n- Typical users: roughly 365-400 cycles a year (SlashGear)\n- Capacity after 1 year of storage: 25 C at 40% charge about 96%, at 100% about 80%; 40 C at 100% about 65% (Battery University BU-808)\n- Every 0.10 V lower peak charge roughly doubles cycle life; shallow cycles last far longer than deep ones (Battery University BU-808)\n- Lithium trapped in the SEI is the main cause of capacity fade (The Electrochemical Society)\n\nSources\n- BU-808: How to Prolong Lithium-based Batteries (Battery University): https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries\n- Apple raises iPhone 15 advertised battery lifespan (MacRumors): https://www.macrumors.com/2024/02/20/apple-raises-iphone-15-advertised-battery-lifespan/\n- How much battery health will your iPhone lose annually (SlashGear): https://www.slashgear.com/1932618/iphone-battery-health-annual-decline-how-much-lose-explained\n- Why your battery doesn't last forever (The Electrochemical Society): https://www.electrochem.org/why-your-battery-doesnt-last-forever\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #battery",
+  "tags": [
+   "why phone batteries die",
+   "battery health",
+   "lithium ion battery explained",
+   "how to save phone battery",
+   "battery degradation",
+   "charge cycles",
+   "80% charging limit",
+   "optimized battery charging",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "16 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short1.mp4",
+   "title": "Heat is aging your battery #shorts",
+   "description": "Heat is aging your battery. Full video on our channel: \"Why Phone Batteries Die So Fast (And How to Slow It Down)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "16 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short2.mp4",
+   "title": "Why your battery holds less #shorts",
+   "description": "Why your battery holds less. Full video on our channel: \"Why Phone Batteries Die So Fast (And How to Slow It Down)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "16 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short3.mp4",
+   "title": "Is 100% charge bad? #shorts",
+   "description": "Is 100% charge bad?. Full video on our channel: \"Why Phone Batteries Die So Fast (And How to Slow It Down)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "16 Nov 2026 21:00"
+  }
+ ]
+}
