@@ -1,0 +1,44 @@
+{
+ "episode": "TE05",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/thumb_a.png",
+  "title": "How a Computer Chip Is Made: From Sand to Billions of Transistors",
+  "description": "A chip with tens of billions of transistors starts as ordinary sand. In this video we follow the whole journey: purifying silicon to nine nines, growing a single giant crystal, slicing it into wafers, printing patterns with extreme ultraviolet light from exploding tin droplets, and building up to around a hundred layers over three to four months in rooms cleaner than an operating theatre.\n\nChapters\n00:00 Intro: billions of switches from sand\n00:44 A city built with stencils\n01:29 From sand to pure silicon\n02:13 Growing a perfect crystal\n02:57 Slicing wafers in a cleanroom\n03:40 Photolithography step by step\n04:18 EUV: light from exploding tin\n05:08 Steering light that glass blocks\n05:50 Doping and building the layers\n06:32 Testing, cutting and packaging\n07:14 Recap in three points\n07:51 Your turn\n\nKey figures (checked November 2026):\n- Electronic-grade silicon: 99.9999999% pure (nine nines); metallurgical grade about 99% (UniversityWafer)\n- Czochralski growth: silicon melted at about 1,400 C, single-crystal ingot pulled from a seed (UniversityWafer)\n- 300 mm wafers; EUV light at 13.5 nm; tin droplets about 25 micrometres, laser-to-plasma cycle more than 50,000 times a second; mirrors with 100+ molybdenum/silicon layers reflect about 70%; wafer stage positions to better than 1 nm; about 30 billion transistors on a GPU (Gigazine on Branch Education)\n- EUV machine: more than USD 150 million, ASML is the sole producer (Evertiq)\n- Up to about 100 layer cycles, three to four months, ISO class 1 cleanrooms (WION)\n\nSources\n- How are silicon wafers made (UniversityWafer): https://universitywafer.com/how-silicon-wafers-are-made.html\n- How transistors are made with EUV photolithography (Gigazine): https://gigazine.net/gsc_news/en/20251028-how-transistors-made-microchip-euv-photolithography\n- Zooming in on the machine that prints microchips (Evertiq): https://evertiq.com/design/2025-11-14-zooming-in-on-the-machine-that-prints-microchips\n- Months to build one chip (WION): https://www.wionews.com/photos/months-to-build-one-chip-why-semiconductor-manufacturing-takes-so-long-1785049911157\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #semiconductors",
+  "tags": [
+   "how computer chips are made",
+   "how chips are made",
+   "semiconductor manufacturing",
+   "EUV lithography",
+   "ASML",
+   "silicon wafer",
+   "photolithography explained",
+   "transistors explained",
+   "chip fab",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "15 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short1.mp4",
+   "title": "Chips are printed with exploding tin #shorts",
+   "description": "Chips are printed with exploding tin. Full video on our channel: \"How a Computer Chip Is Made: From Sand to Billions of Transistors\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "15 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short2.mp4",
+   "title": "Your chip started as sand #shorts",
+   "description": "Your chip started as sand. Full video on our channel: \"How a Computer Chip Is Made: From Sand to Billions of Transistors\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "15 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short3.mp4",
+   "title": "Light that glass can't carry #shorts",
+   "description": "Light that glass can't carry. Full video on our channel: \"How a Computer Chip Is Made: From Sand to Billions of Transistors\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "15 Nov 2026 21:00"
+  }
+ ]
+}
