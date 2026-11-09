@@ -1,0 +1,87 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE03 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: How a Smartphone Camera Actually Works (Explained Simply)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 13 Nov 2026 01:00
+Tags: how smartphone camera works, phone camera explained, image sensor explained, bayer filter, pixel binning, computational photography, night mode explained, how does a camera work, megapixels explained, demosaicing, tech explained, how it works
+
+Description:
+Your phone camera's pixels can't see colour, and it may start shooting before you even tap. In this video we follow light through a phone camera: the lens, the image sensor, how a pixel turns light into a number, the Bayer colour filter and demosaicing, why tiny pixels need pixel binning, and how HDR and night mode stack many frames into one clean photo.
+
+Chapters
+00:00 Intro: what happens when you tap
+00:45 Buckets in the rain
+01:31 The parts of a phone camera
+02:14 How a pixel turns light into a number
+03:02 The Bayer filter: how a sensor sees colour
+03:49 Demosaicing: guessing the missing colours
+04:35 How small are phone pixels?
+05:22 Pixel binning: many small pixels act as one
+06:06 Your phone shoots before you press
+06:54 How night mode sees in the dark
+07:41 Recap in three points
+08:17 Your turn
+
+Key figures (checked November 2026):
+- Bayer filter: 50% green, 25% red, 25% blue; Bryce E. Bayer, Eastman Kodak, US patent 3,971,065 (1976)
+- Demosaicing estimates about two thirds of the colour data
+- Samsung ISOCELL HP3: 200 MP, 0.56 um pixels, 1/1.4-inch; 4-to-1 binning = 50 MP (1.12 um), 16-to-1 = 12.5 MP (2.24 um) (PetaPixel)
+- Google HDR+ buffers the latest 9 or 15 frames; Night Sight (2018) captures 6-15 frames, up to 1 s each when still, 1/15 s or less handheld (SlashGear on Google's research)
+
+Sources
+- Bayer filter (chemeurope encyclopedia): https://www.chemeurope.com/en/encyclopedia/Bayer_filter
+- Bayer filter explained (PhoneArena): https://www.phonearena.com/news/Bayer-filter-explained-or-how-your-phones-camera-sees-color_id66281
+- Samsung ISOCELL HP3 has the world's smallest pixels (PetaPixel): https://www.petapixel.com/2022/06/23/samsungs-new-200mp-hm3-camera-sensor-has-worlds-smallest-pixels
+- How does Google Night Sight work (SlashGear): https://www.slashgear.com/google-night-sight-camera-technology-explained-info-release-history-14553723
+- Night Sight: Seeing in the dark on Pixel phones (Google Research): https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/
+- What is computational photography (Android Central): https://www.androidcentral.com/phones/computational-photography
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #howitworks #camera
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: Your phone takes photos before you tap #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 13 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+Your phone takes photos before you tap. Full video on our channel: "How a Smartphone Camera Actually Works (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: Your camera's pixels can't see colour #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 13 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+Your camera's pixels can't see colour. Full video on our channel: "How a Smartphone Camera Actually Works (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: How night mode sees in the dark #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 13 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+How night mode sees in the dark. Full video on our channel: "How a Smartphone Camera Actually Works (Explained Simply)"
+
+#shorts #techexplained #howitworks

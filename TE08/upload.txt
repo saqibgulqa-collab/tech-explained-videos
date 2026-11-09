@@ -1,0 +1,88 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE08 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: What Happens Inside a Data Center (Where the Internet Lives)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 18 Nov 2026 01:00
+Tags: what is a data center, inside a data center, how data centers work, data center explained, how the cloud works, data center cooling, AI data center power, PUE explained, tech explained, how it works
+
+Description:
+Every photo, message and video you stream lives in a giant, windowless building full of computers. In this video we walk inside a data center: what happens when you tap play, what racks and servers are, how batteries and diesel generators keep the power on, why AI is pushing electricity use up so fast, and how hot aisles, cold aisles and liquid cooling fight the heat.
+
+Chapters
+00:00 Intro: where the internet lives
+00:45 From your tap to a server
+01:26 What's inside the building
+02:08 Inside a rack
+02:48 Power that never goes off
+03:29 AI changed the power math
+04:13 Hot aisles and cold aisles
+04:57 When air isn't enough
+05:38 Measuring efficiency: PUE
+06:20 Built to never go down
+06:59 Recap in three points
+07:31 Your turn
+
+Key facts (checked November 2026):
+- Data centres used about 415 TWh in 2024, roughly 1.5% of global electricity; IEA projects about 945 TWh by 2030 (IEA Energy and AI, via Data Centre Magazine)
+- Standard racks are 42U tall; 1U = 1.75 in (44.45 mm)
+- Power path: grid, on-site substation, UPS batteries, diesel generators that start within seconds
+- Nvidia H100 SXM: up to 700 W; an 8-GPU server draws around 10 kW
+- Hot/cold aisle containment; liquid cooling with cold plates and immersion
+- PUE: older sites around 2.0, industry average around 1.5, Google fleet around 1.1
+- OVHcloud Strasbourg data center fire, March 2021
+
+Sources
+- IEA Energy and AI report (Data Centre Magazine summary): https://datacentremagazine.com/technology-and-ai/iea-asks-how-is-ai-reshaping-global-energy-demand
+- IEA Energy and AI, executive summary: https://www.iea.org/reports/energy-and-ai/executive-summary
+- Google data center efficiency: https://www.google.com/about/datacenters/efficiency/
+- How datacenters actually work (DEV Community): https://dev.to/abhi1628/how-datacenters-actually-work-a-walk-through-the-building-nobody-sees-1mhm
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #datacenter #howitworks
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: Why AI needs so much power #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 18 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+Why AI needs so much power. Full video on our channel: "What Happens Inside a Data Center (Where the Internet Lives)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: Why data centers never lose power #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 18 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+Why data centers never lose power. Full video on our channel: "What Happens Inside a Data Center (Where the Internet Lives)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: How data centers fight heat #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 18 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+How data centers fight heat. Full video on our channel: "What Happens Inside a Data Center (Where the Internet Lives)"
+
+#shorts #techexplained #howitworks

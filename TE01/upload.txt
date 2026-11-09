@@ -1,0 +1,91 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE01 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: How the Internet Travels Under the Ocean (Explained Simply)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 11 Nov 2026 01:00
+Tags: undersea internet cables, submarine cables, how the internet works, fiber optic cable, how does the internet cross the ocean, undersea cable explained, internet infrastructure, subsea cable, tech explained, how it works, MAREA cable, fiber optics explained
+
+Description:
+About 99% of data between continents travels through cables on the ocean floor, not satellites. In this video we open up an undersea internet cable: what is inside it, how light carries your data, how repeaters boost the signal every few dozen kilometres, who owns the cables, what really breaks them (spoiler: not sharks), and how a repair ship fixes a cable 6,000 metres down.
+
+Chapters
+00:00 Intro: the cable under your video
+00:46 How big the network really is
+01:30 Why not just use satellites?
+02:14 What's inside an undersea cable
+03:06 How light carries your data
+03:59 Repeaters: boosting light under the sea
+04:48 How fast data crosses the Atlantic
+05:35 Who owns the cables
+06:18 What actually breaks undersea cables
+07:05 How a broken cable gets fixed
+07:55 From 1858 to today
+08:41 Your turn
+
+Key figures (checked November 2026):
+- 607 cable systems in service and 102 planned (TeleGeography, 2026)
+- About 1.7 million km of subsea cable; 150-200 incidents a year, about three quarters from fishing gear and anchors (International Cable Protection Committee via The National, Nov 2025)
+- Deep-sea cables are 17-20 mm wide; armoured cables up to ~50 mm (ICPC)
+- MAREA: 6,600 km, Virginia Beach to Bilbao, up to 160 Tbps at launch
+- 1858 cable: Queen Victoria's 98-word message took almost 16 hours (IEEE Spectrum)
+
+Sources
+- How many submarine cables are there? (TeleGeography, Sep 2026): https://resources.telegeography.com/how-many-submarine-cables-are-there-anyway
+- Do submarine cables carry 99% of intercontinental traffic? (TeleGeography): https://resources.telegeography.com/2023-mythbusting-part-3
+- What happens when submarine cables break (TeleGeography): https://resources.telegeography.com/what-happens-when-submarine-cables-break
+- Submarine cables guide (ICPC): https://www.cablejoints.co.uk/upload/Submarine_Cables___ISCPC_Guide.pdf
+- How undersea cables are repaired (The National, Nov 2025): https://www.thenationalnews.com/news/uae/2025/11/14/undersea-cables-subsea-internet-telecoms-uae-red-sea
+- Optical repeaters for submarine cables (Hackaday): https://hackaday.com/2023/08/08/under-the-sea-optical-repeaters-for-submarine-cables
+- MAREA cable completed (The Next Web): https://thenextweb.com/news/microsoft-and-facebook-just-laid-a-160tbps-undersea-cable-17000-feet-deep
+- Why subsea cable is king (RCR Wireless): https://www.rcrwireless.com/20251212/fundamentals/subsea-cable-king
+- The first transatlantic telegraph cable (IEEE Spectrum): https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #howitworks #internet
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: Sharks don't break the internet. This does. #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 11 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+Sharks don't break the internet. This does.. Full video on our channel: "How the Internet Travels Under the Ocean (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: Your data is literally a flash of light #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 11 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+Your data is literally a flash of light. Full video on our channel: "How the Internet Travels Under the Ocean (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: 1858: 16 hours to send 98 words #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 11 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+1858: 16 hours to send 98 words. Full video on our channel: "How the Internet Travels Under the Ocean (Explained Simply)"
+
+#shorts #techexplained #howitworks

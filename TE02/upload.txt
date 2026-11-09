@@ -1,0 +1,87 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE02 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: How GPS Knows Exactly Where You Are (Explained Simply)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 12 Nov 2026 01:00
+Tags: how gps works, gps explained, how does gps work, gps satellites, trilateration, gps relativity, einstein gps, assisted gps, phone gps accuracy, galileo glonass beidou, tech explained, how it works
+
+Description:
+Your phone finds you anywhere on Earth without sending a single signal to space. In this video we explain how GPS really works: what the satellites broadcast, how your phone turns signal travel time into distance, why it needs four satellites, why a one-microsecond clock error means 300 metres, how Einstein's relativity is built into the system, how assisted GPS gives a fix in seconds, and why the blue dot jumps around in cities.
+
+Chapters
+00:00 Intro: how does your phone know?
+00:50 The thunder trick
+01:38 Meet the GPS constellation
+02:23 What a GPS satellite actually sends
+03:09 Trilateration: from distances to a dot
+03:58 Why every microsecond counts
+04:43 Relativity: the Einstein correction
+05:29 Assisted GPS: the phone's shortcut
+06:19 How accurate is phone GPS?
+07:05 GPS, Galileo, GLONASS and BeiDou
+07:48 Recap in three points
+08:26 Your turn
+
+Key figures (checked November 2026):
+- 32 operational GPS satellites as of October 2026 (US Coast Guard NAVCEN status via KeepTrack); US commits to at least 24 available
+- Orbit about 20,200 km, 6 orbital planes, two orbits a day (Gunter's Space Page)
+- Relativity: about -7 us/day (speed) and +45 us/day (weaker gravity), net +38 us/day; uncorrected about 10 km error a day (Tech for Space / ESA material)
+- GPS-enabled smartphones: typically within 4.9 m (16 ft) under open sky (GPS.gov)
+- Navigation message at 50 bit/s; unassisted start can take up to 12.5 minutes (Assisted GNSS)
+
+Sources
+- How many GPS satellites are there (KeepTrack, Oct 2026): https://keeptrack.space/live-count/how-many-gps-satellites-are-there
+- GPS navigation system (Gunter's Space Page): https://space.skyrocket.de/doc_sat/gps.htm
+- GPS accuracy (GPS.gov, archived): https://webarchive.library.unt.edu/web/20201218023132/https://www.gps.gov/systems/gps/performance/accuracy
+- GPS and relativity (Tech for Space): https://www.techforspace.com/missions/galileo/gps-and-relativity/
+- Assisted GNSS (Wikipedia): https://en.wikipedia.org/wiki/Assisted_GNSS
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #howitworks #gps
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: GPS would be 10 km off without Einstein #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 12 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+GPS would be 10 km off without Einstein. Full video on our channel: "How GPS Knows Exactly Where You Are (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: Why your phone needs 4 satellites #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 12 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+Why your phone needs 4 satellites. Full video on our channel: "How GPS Knows Exactly Where You Are (Explained Simply)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: Why the blue dot jumps in cities #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 12 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+Why the blue dot jumps in cities. Full video on our channel: "How GPS Knows Exactly Where You Are (Explained Simply)"
+
+#shorts #techexplained #howitworks

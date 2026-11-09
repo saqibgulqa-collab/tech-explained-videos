@@ -1,0 +1,86 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE06 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: Why Phone Batteries Die So Fast (And How to Slow It Down)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 16 Nov 2026 01:00
+Tags: why phone batteries die, battery health, lithium ion battery explained, how to save phone battery, battery degradation, charge cycles, 80% charging limit, optimized battery charging, tech explained, how it works
+
+Description:
+Your phone battery lasts all day when it is new, then slowly fades. In this video we look inside a lithium-ion battery to see what actually wears it out: a protective film that keeps growing and trapping lithium, plus heat, sitting at 100% and draining to zero. Then we cover the simple habits that slow it down.
+
+Chapters
+00:00 Intro: where did the battery go?
+00:42 Two garages and a tunnel
+01:25 What is inside a phone battery
+02:06 The film that traps lithium
+02:53 How charge cycles add up
+03:37 Heat: the biggest enemy
+04:22 Why sitting at 100% hurts
+05:09 Deep drains, fast charging and cold
+05:59 Why an old battery feels slow
+06:44 Simple habits that help
+07:26 Recap in three points
+07:55 Your turn
+
+Key figures (checked November 2026):
+- iPhone 14 and earlier: about 80% capacity after 500 full cycles; iPhone 15 and later: 1,000 cycles, under ideal conditions (MacRumors, Apple)
+- Typical users: roughly 365-400 cycles a year (SlashGear)
+- Capacity after 1 year of storage: 25 C at 40% charge about 96%, at 100% about 80%; 40 C at 100% about 65% (Battery University BU-808)
+- Every 0.10 V lower peak charge roughly doubles cycle life; shallow cycles last far longer than deep ones (Battery University BU-808)
+- Lithium trapped in the SEI is the main cause of capacity fade (The Electrochemical Society)
+
+Sources
+- BU-808: How to Prolong Lithium-based Batteries (Battery University): https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries
+- Apple raises iPhone 15 advertised battery lifespan (MacRumors): https://www.macrumors.com/2024/02/20/apple-raises-iphone-15-advertised-battery-lifespan/
+- How much battery health will your iPhone lose annually (SlashGear): https://www.slashgear.com/1932618/iphone-battery-health-annual-decline-how-much-lose-explained
+- Why your battery doesn't last forever (The Electrochemical Society): https://www.electrochem.org/why-your-battery-doesnt-last-forever
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #howitworks #battery
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: Heat is aging your battery #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 16 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+Heat is aging your battery. Full video on our channel: "Why Phone Batteries Die So Fast (And How to Slow It Down)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: Why your battery holds less #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 16 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+Why your battery holds less. Full video on our channel: "Why Phone Batteries Die So Fast (And How to Slow It Down)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: Is 100% charge bad? #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 16 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+Is 100% charge bad?. Full video on our channel: "Why Phone Batteries Die So Fast (And How to Slow It Down)"
+
+#shorts #techexplained #howitworks

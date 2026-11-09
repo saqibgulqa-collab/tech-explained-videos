@@ -1,0 +1,84 @@
+CHANNEL: Tech Explained
+
+=== LONG VIDEO ===
+File: TE07 - long.mp4
+Thumbnail: thumbnail_A.png (B version: thumbnail_B.png for A/B test)
+Title: How Noise-Cancelling Headphones Work (Sound That Erases Sound)
+Category: Science & Technology
+Made for kids: No
+Altered or synthetic content: Yes (AI voiceover)
+Suggested publish (PKT): 17 Nov 2026 01:00
+Tags: how noise cancelling headphones work, active noise cancellation, ANC explained, noise cancelling explained, destructive interference, transparency mode, Bose noise cancelling, how headphones work, tech explained, how it works
+
+Description:
+Noise-cancelling headphones do not just block sound, they fight it with more sound. In this video we see how microphones and a flipped anti-noise wave cancel engine hum, why it works far better on low steady sounds than on voices, how padding handles the rest, and how a frustrated engineer on a flight helped start it all.
+
+Chapters
+00:00 Intro: silence made from sound
+00:43 Push and pull at the same time
+01:26 Peaks, troughs and hertz
+02:10 Microphone, chip, speaker
+02:51 Feedforward, feedback, hybrid
+03:31 Why low sounds are easier
+04:16 What it can and can't cancel
+05:00 Passive isolation does the rest
+05:40 From a patent to a plane seat
+06:24 Transparency and adaptive modes
+07:05 Recap in three points
+07:33 Your turn
+
+Key facts (checked November 2026):
+- ANC uses a microphone and an out-of-phase wave to cancel noise by destructive interference; works best on constant low-frequency sound, less on voices and sudden sounds; high frequencies are handled by passive isolation (Wikipedia: Noise-cancelling headphones)
+- Feedforward (outside mic), feedback (inside mic) and hybrid designs (Wikipedia)
+- History: Paul Lueg patent 1936; Amar Bose's idea on a flight in 1978; Rutan and Yeager wore prototype Bose headsets on the 1986 non-stop round-the-world flight; Bose consumer QuietComfort from 2000 (Wikipedia)
+- Some people feel dizziness with strong ANC; lowering ANC strength can help (SoundGuys)
+- Wavelengths calculated with the speed of sound at about 343 m/s
+
+Sources
+- Noise-cancelling headphones (Wikipedia): https://en.wikipedia.org/wiki/Noise-cancelling_headphones
+- How do noise-cancelling headphones work (SoundGuys): https://www.soundguys.com/how-do-noise-cancelling-headphones-work-12380
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #howitworks #headphones
+
+=== SHORT 1 ===
+File: short1.mp4
+Title: Why ANC can't block voices #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 17 Nov 2026 13:00
+Tags: tech explained, how it works, shorts
+Description:
+Why ANC can't block voices. Full video on our channel: "How Noise-Cancelling Headphones Work (Sound That Erases Sound)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 2 ===
+File: short2.mp4
+Title: How sound erases sound #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 17 Nov 2026 17:00
+Tags: tech explained, how it works, shorts
+Description:
+How sound erases sound. Full video on our channel: "How Noise-Cancelling Headphones Work (Sound That Erases Sound)"
+
+#shorts #techexplained #howitworks
+
+=== SHORT 3 ===
+File: short3.mp4
+Title: The flight that started ANC #shorts
+Made for kids: No
+Altered or synthetic content: Yes
+Suggested publish (PKT): 17 Nov 2026 21:00
+Tags: tech explained, how it works, shorts
+Description:
+The flight that started ANC. Full video on our channel: "How Noise-Cancelling Headphones Work (Sound That Erases Sound)"
+
+#shorts #techexplained #howitworks
