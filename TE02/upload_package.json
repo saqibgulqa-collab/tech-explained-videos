@@ -1,0 +1,45 @@
+{
+ "episode": "TE02",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/thumb_a.png",
+  "title": "How GPS Knows Exactly Where You Are (Explained Simply)",
+  "description": "Your phone finds you anywhere on Earth without sending a single signal to space. In this video we explain how GPS really works: what the satellites broadcast, how your phone turns signal travel time into distance, why it needs four satellites, why a one-microsecond clock error means 300 metres, how Einstein's relativity is built into the system, how assisted GPS gives a fix in seconds, and why the blue dot jumps around in cities.\n\nChapters\n00:00 Intro: how does your phone know?\n00:50 The thunder trick\n01:38 Meet the GPS constellation\n02:23 What a GPS satellite actually sends\n03:09 Trilateration: from distances to a dot\n03:58 Why every microsecond counts\n04:43 Relativity: the Einstein correction\n05:29 Assisted GPS: the phone's shortcut\n06:19 How accurate is phone GPS?\n07:05 GPS, Galileo, GLONASS and BeiDou\n07:48 Recap in three points\n08:26 Your turn\n\nKey figures (checked November 2026):\n- 32 operational GPS satellites as of October 2026 (US Coast Guard NAVCEN status via KeepTrack); US commits to at least 24 available\n- Orbit about 20,200 km, 6 orbital planes, two orbits a day (Gunter's Space Page)\n- Relativity: about -7 us/day (speed) and +45 us/day (weaker gravity), net +38 us/day; uncorrected about 10 km error a day (Tech for Space / ESA material)\n- GPS-enabled smartphones: typically within 4.9 m (16 ft) under open sky (GPS.gov)\n- Navigation message at 50 bit/s; unassisted start can take up to 12.5 minutes (Assisted GNSS)\n\nSources\n- How many GPS satellites are there (KeepTrack, Oct 2026): https://keeptrack.space/live-count/how-many-gps-satellites-are-there\n- GPS navigation system (Gunter's Space Page): https://space.skyrocket.de/doc_sat/gps.htm\n- GPS accuracy (GPS.gov, archived): https://webarchive.library.unt.edu/web/20201218023132/https://www.gps.gov/systems/gps/performance/accuracy\n- GPS and relativity (Tech for Space): https://www.techforspace.com/missions/galileo/gps-and-relativity/\n- Assisted GNSS (Wikipedia): https://en.wikipedia.org/wiki/Assisted_GNSS\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #gps",
+  "tags": [
+   "how gps works",
+   "gps explained",
+   "how does gps work",
+   "gps satellites",
+   "trilateration",
+   "gps relativity",
+   "einstein gps",
+   "assisted gps",
+   "phone gps accuracy",
+   "galileo glonass beidou",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "12 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short1.mp4",
+   "title": "GPS would be 10 km off without Einstein #shorts",
+   "description": "GPS would be 10 km off without Einstein. Full video on our channel: \"How GPS Knows Exactly Where You Are (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "12 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short2.mp4",
+   "title": "Why your phone needs 4 satellites #shorts",
+   "description": "Why your phone needs 4 satellites. Full video on our channel: \"How GPS Knows Exactly Where You Are (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "12 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short3.mp4",
+   "title": "Why the blue dot jumps in cities #shorts",
+   "description": "Why the blue dot jumps in cities. Full video on our channel: \"How GPS Knows Exactly Where You Are (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "12 Nov 2026 21:00"
+  }
+ ]
+}
