@@ -5,24 +5,9 @@
    "folder": "TE01 - How the Internet Travels Under the Ocean (Explained Simply)",
    "files": [
     {
-     "name": "TE01 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_upload.mp4",
-     "size": 95487314
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short1.mp4",
-     "size": 14604699
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short2.mp4",
-     "size": 10140804
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short3.mp4",
-     "size": 20542599
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/upload.txt",
+     "size": 4764
     },
     {
      "name": "thumbnail_A.png",
@@ -35,9 +20,24 @@
      "size": 897597
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/upload.txt",
-     "size": 4764
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short2.mp4",
+     "size": 10140804
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short1.mp4",
+     "size": 14604699
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short3.mp4",
+     "size": 20542599
+    },
+    {
+     "name": "TE01 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_upload.mp4",
+     "size": 95487314
     }
    ]
   },
@@ -45,24 +45,9 @@
    "folder": "TE02 - How GPS Knows Exactly Where You Are (Explained Simply)",
    "files": [
     {
-     "name": "TE02 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_upload.mp4",
-     "size": 95124007
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short1.mp4",
-     "size": 11724257
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short2.mp4",
-     "size": 12532096
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short3.mp4",
-     "size": 10720959
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/upload.txt",
+     "size": 4085
     },
     {
      "name": "thumbnail_A.png",
@@ -75,9 +60,24 @@
      "size": 888287
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/upload.txt",
-     "size": 4085
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short3.mp4",
+     "size": 10720959
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short1.mp4",
+     "size": 11724257
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_short2.mp4",
+     "size": 12532096
+    },
+    {
+     "name": "TE02 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE02/TE02_upload.mp4",
+     "size": 95124007
     }
    ]
   },
@@ -85,24 +85,9 @@
    "folder": "TE03 - How a Smartphone Camera Actually Works (Explained Simply)",
    "files": [
     {
-     "name": "TE03 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_upload.mp4",
-     "size": 95071003
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short1.mp4",
-     "size": 10884289
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short2.mp4",
-     "size": 7816120
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short3.mp4",
-     "size": 9100464
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/upload.txt",
+     "size": 4308
     },
     {
      "name": "thumbnail_A.png",
@@ -115,9 +100,24 @@
      "size": 890618
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/upload.txt",
-     "size": 4308
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short2.mp4",
+     "size": 7816120
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short3.mp4",
+     "size": 9100464
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short1.mp4",
+     "size": 10884289
+    },
+    {
+     "name": "TE03 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_upload.mp4",
+     "size": 95071003
     }
    ]
   },
@@ -125,24 +125,9 @@
    "folder": "TE04 - What Really Happens When You Press Send on WhatsApp",
    "files": [
     {
-     "name": "TE04 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_upload.mp4",
-     "size": 95101804
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short1.mp4",
-     "size": 6778578
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short2.mp4",
-     "size": 7695328
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short3.mp4",
-     "size": 7259784
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/upload.txt",
+     "size": 4747
     },
     {
      "name": "thumbnail_A.png",
@@ -155,9 +140,24 @@
      "size": 883421
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/upload.txt",
-     "size": 4747
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short1.mp4",
+     "size": 6778578
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short3.mp4",
+     "size": 7259784
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short2.mp4",
+     "size": 7695328
+    },
+    {
+     "name": "TE04 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_upload.mp4",
+     "size": 95101804
     }
    ]
   },
@@ -165,24 +165,9 @@
    "folder": "TE05 - How a Computer Chip Is Made From Sand",
    "files": [
     {
-     "name": "TE05 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_upload.mp4",
-     "size": 95123603
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short1.mp4",
-     "size": 9180269
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short2.mp4",
-     "size": 9566617
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short3.mp4",
-     "size": 8339956
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/upload.txt",
+     "size": 4234
     },
     {
      "name": "thumbnail_A.png",
@@ -195,9 +180,24 @@
      "size": 893261
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/upload.txt",
-     "size": 4234
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short3.mp4",
+     "size": 8339956
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short1.mp4",
+     "size": 9180269
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_short2.mp4",
+     "size": 9566617
+    },
+    {
+     "name": "TE05 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE05/TE05_upload.mp4",
+     "size": 95123603
     }
    ]
   },
@@ -205,24 +205,9 @@
    "folder": "TE06 - Why Phone Batteries Die So Fast",
    "files": [
     {
-     "name": "TE06 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_upload.mp4",
-     "size": 95251642
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short1.mp4",
-     "size": 8915634
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short2.mp4",
-     "size": 9266984
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short3.mp4",
-     "size": 8374394
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/upload.txt",
+     "size": 3992
     },
     {
      "name": "thumbnail_A.png",
@@ -235,9 +220,24 @@
      "size": 899886
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/upload.txt",
-     "size": 3992
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short3.mp4",
+     "size": 8374394
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short1.mp4",
+     "size": 8915634
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_short2.mp4",
+     "size": 9266984
+    },
+    {
+     "name": "TE06 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE06/TE06_upload.mp4",
+     "size": 95251642
     }
    ]
   },
@@ -245,24 +245,9 @@
    "folder": "TE07 - How Noise-Cancelling Headphones Work",
    "files": [
     {
-     "name": "TE07 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_upload.mp4",
-     "size": 95163897
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short1.mp4",
-     "size": 6571703
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short2.mp4",
-     "size": 9343153
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short3.mp4",
-     "size": 6882370
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/upload.txt",
+     "size": 3815
     },
     {
      "name": "thumbnail_A.png",
@@ -275,9 +260,24 @@
      "size": 894925
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/upload.txt",
-     "size": 3815
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short1.mp4",
+     "size": 6571703
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short3.mp4",
+     "size": 6882370
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_short2.mp4",
+     "size": 9343153
+    },
+    {
+     "name": "TE07 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE07/TE07_upload.mp4",
+     "size": 95163897
     }
    ]
   },
@@ -285,29 +285,9 @@
    "folder": "TE08 - What Happens Inside a Data Center",
    "files": [
     {
-     "name": "TE08 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_upload.mp4",
-     "size": 95083088
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short1.mp4",
-     "size": 7934840
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short2.mp4",
-     "size": 7774946
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short3.mp4",
-     "size": 9185575
-    },
-    {
-     "name": "thumbnail_A.png",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/thumb_a.png",
-     "size": 907603
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/upload.txt",
+     "size": 3950
     },
     {
      "name": "thumbnail_B.png",
@@ -315,9 +295,29 @@
      "size": 895577
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/upload.txt",
-     "size": 3950
+     "name": "thumbnail_A.png",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/thumb_a.png",
+     "size": 907603
+    },
+    {
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short2.mp4",
+     "size": 7774946
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short1.mp4",
+     "size": 7934840
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_short3.mp4",
+     "size": 9185575
+    },
+    {
+     "name": "TE08 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE08/TE08_upload.mp4",
+     "size": 95083088
     }
    ]
   },
@@ -325,24 +325,9 @@
    "folder": "TE09 - How Touchscreens Work",
    "files": [
     {
-     "name": "TE09 - long.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_upload.mp4",
-     "size": 95106436
-    },
-    {
-     "name": "short1.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short1.mp4",
-     "size": 6918510
-    },
-    {
-     "name": "short2.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short2.mp4",
-     "size": 6595179
-    },
-    {
-     "name": "short3.mp4",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short3.mp4",
-     "size": 6691662
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/upload.txt",
+     "size": 3962
     },
     {
      "name": "thumbnail_A.png",
@@ -355,9 +340,24 @@
      "size": 899986
     },
     {
-     "name": "upload.txt",
-     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/upload.txt",
-     "size": 3962
+     "name": "short2.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short2.mp4",
+     "size": 6595179
+    },
+    {
+     "name": "short3.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short3.mp4",
+     "size": 6691662
+    },
+    {
+     "name": "short1.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_short1.mp4",
+     "size": 6918510
+    },
+    {
+     "name": "TE09 - long.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE09/TE09_upload.mp4",
+     "size": 95106436
     }
    ]
   }
