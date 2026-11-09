@@ -1,0 +1,523 @@
+{
+ "id": "TE05",
+ "num": 5,
+ "status": "draft",
+ "title": "How a Computer Chip Is Made",
+ "pillar": "Inside big tech",
+ "music": "music_759.mp3",
+ "thumbnail": {
+  "a": {
+   "big": "SAND",
+   "line2": "TO CHIP",
+   "tag": "Printed with light",
+   "chips": [
+    [
+     "99.9999999% pure",
+     true
+    ],
+    [
+     "Printed with light",
+     true
+    ],
+    [
+     "Up to 100 layers",
+     true
+    ],
+    [
+     "Built by hand",
+     false
+    ],
+    [
+     "Made in a day",
+     false
+    ]
+   ]
+  },
+  "b": {
+   "kicker": "MADE FROM SAND",
+   "from": "Sand",
+   "to": "30B",
+   "line2": "ON ONE CHIP",
+   "tag": "How chips are made"
+  }
+ },
+ "youtube": {
+  "title": "How a Computer Chip Is Made: From Sand to Billions of Transistors",
+  "summary": "A chip with tens of billions of transistors starts as ordinary sand. In this video we follow the whole journey: purifying silicon to nine nines, growing a single giant crystal, slicing it into wafers, printing patterns with extreme ultraviolet light from exploding tin droplets, and building up to around a hundred layers over three to four months in rooms cleaner than an operating theatre.",
+  "details": "Key figures (checked November 2026):\n- Electronic-grade silicon: 99.9999999% pure (nine nines); metallurgical grade about 99% (UniversityWafer)\n- Czochralski growth: silicon melted at about 1,400 C, single-crystal ingot pulled from a seed (UniversityWafer)\n- 300 mm wafers; EUV light at 13.5 nm; tin droplets about 25 micrometres, laser-to-plasma cycle more than 50,000 times a second; mirrors with 100+ molybdenum/silicon layers reflect about 70%; wafer stage positions to better than 1 nm; about 30 billion transistors on a GPU (Gigazine on Branch Education)\n- EUV machine: more than USD 150 million, ASML is the sole producer (Evertiq)\n- Up to about 100 layer cycles, three to four months, ISO class 1 cleanrooms (WION)",
+  "sources": [
+   {
+    "name": "How are silicon wafers made (UniversityWafer)",
+    "url": "https://universitywafer.com/how-silicon-wafers-are-made.html"
+   },
+   {
+    "name": "How transistors are made with EUV photolithography (Gigazine)",
+    "url": "https://gigazine.net/gsc_news/en/20251028-how-transistors-made-microchip-euv-photolithography"
+   },
+   {
+    "name": "Zooming in on the machine that prints microchips (Evertiq)",
+    "url": "https://evertiq.com/design/2025-11-14-zooming-in-on-the-machine-that-prints-microchips"
+   },
+   {
+    "name": "Months to build one chip (WION)",
+    "url": "https://www.wionews.com/photos/months-to-build-one-chip-why-semiconductor-manufacturing-takes-so-long-1785049911157"
+   }
+  ],
+  "tags": [
+   "how computer chips are made",
+   "how chips are made",
+   "semiconductor manufacturing",
+   "EUV lithography",
+   "ASML",
+   "silicon wafer",
+   "photolithography explained",
+   "transistors explained",
+   "chip fab",
+   "tech explained",
+   "how it works"
+  ],
+  "hashtags": [
+   "#techexplained",
+   "#howitworks",
+   "#semiconductors"
+  ],
+  "category": "SCIENCE_TECHNOLOGY"
+ },
+ "metricool": {},
+ "shorts": [
+  {
+   "scenes": [
+    "s07"
+   ],
+   "headline": "Chips are printed with exploding tin",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s03"
+   ],
+   "headline": "Your chip started as sand",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s08"
+   ],
+   "headline": "Light that glass can't carry",
+   "cta": "Full video on our channel"
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "kind": "stat",
+   "chapter": "The question",
+   "chapterTitle": "Intro: billions of switches from sand",
+   "badge": "Transistors on one graphics chip",
+   "numberValue": 30,
+   "unit": "billion",
+   "sub": "tiny switches on a chip about the size of a postage stamp",
+   "big": {
+    "at": "billion"
+   },
+   "chips": [
+    {
+     "text": "Starts as sand",
+     "at": "sand"
+    },
+    {
+     "text": "Printed with light",
+     "at": "light"
+    },
+    {
+     "text": "Takes months",
+     "at": "months"
+    }
+   ],
+   "broll": [
+    "47051",
+    "1140"
+   ],
+   "text": "Inside your phone or laptop there is a chip about the size of a postage stamp. A modern graphics chip holds around thirty billion transistors, tiny switches that flip on and off to do every calculation your device makes. Nobody places those switches by hand. They are far too small to see, even with a normal microscope. And here is the surprising part. The whole thing starts as sand. In this video we will follow that sand all the way to a working chip. You will see how it is purified, how a giant crystal is grown, and how patterns are printed with light from exploding drops of tin, in a process that takes months."
+  },
+  {
+   "id": "s02",
+   "kind": "steps",
+   "chapter": "A simple analogy",
+   "chapterTitle": "A city built with stencils",
+   "items": [
+    {
+     "text": "Lay a stencil over a sheet",
+     "at": "stencil"
+    },
+    {
+     "text": "Spray through the gaps",
+     "at": "spray"
+    },
+    {
+     "text": "Add a new stencil, build another layer",
+     "at": "layer"
+    }
+   ],
+   "footer": {
+    "text": "A chip is",
+    "highlight": "a city printed layer by layer",
+    "tone": "accent",
+    "at": "city"
+   },
+   "broll": [
+    "1138",
+    "1142"
+   ],
+   "text": "Here is a simple way to picture it. Imagine making a picture with a stencil. You lay the stencil over a sheet of paper, spray paint through the gaps, and lift it away. The paint only lands where the stencil was open. Now imagine doing that again with a different stencil on top, and again, and again, until you have built up a detailed map with roads, bridges and buildings stacked on top of each other. That is basically how a chip is made. Light works as the spray paint, a pattern called a mask is the stencil, and each pass adds one more layer. A finished chip is a tiny city printed layer by layer."
+  },
+  {
+   "id": "s03",
+   "kind": "rows",
+   "chapter": "From sand",
+   "chapterTitle": "From sand to pure silicon",
+   "items": [
+    {
+     "name": "Sand",
+     "desc": "Mostly silicon dioxide: silicon locked with oxygen",
+     "at": "oxygen"
+    },
+    {
+     "name": "Metal grade",
+     "desc": "About 99% pure silicon",
+     "at": "metal"
+    },
+    {
+     "name": "Chip grade",
+     "desc": "99.9999999% pure: nine nines",
+     "at": "nines"
+    }
+   ],
+   "footer": {
+    "text": "Only about",
+    "highlight": "1 stray atom in a billion",
+    "tone": "accent",
+    "at": "stray"
+   },
+   "broll": [
+    "2381",
+    "1136"
+   ],
+   "text": "It all begins with silicon, the second most common element in the Earth's crust. In sand, silicon is locked together with oxygen as silicon dioxide. Heating it with carbon in a furnace pulls the oxygen away and leaves silicon that is about ninety nine percent pure. That is fine for metal alloys, but nowhere near good enough for a chip. So it goes through further chemical purification until it reaches ninety nine point nine nine nine nine nine nine nine percent. Engineers call this nine nines. It means only about one stray atom in a billion is not silicon. A single speck of the wrong material in the wrong place can ruin a transistor."
+  },
+  {
+   "id": "s04",
+   "kind": "steps",
+   "chapter": "One giant crystal",
+   "chapterTitle": "Growing a perfect crystal",
+   "items": [
+    {
+     "text": "Melt the silicon at about 1,400 °C",
+     "at": "melt"
+    },
+    {
+     "text": "Dip in a small seed crystal",
+     "at": "seed"
+    },
+    {
+     "text": "Pull it up slowly while it spins",
+     "at": "spins"
+    },
+    {
+     "text": "One single crystal forms: the ingot",
+     "at": "ingot"
+    }
+   ],
+   "footer": {
+    "text": "Every atom lined up",
+    "highlight": "in the same pattern",
+    "tone": "accent",
+    "at": "pattern"
+   },
+   "broll": [
+    "1140",
+    "1137"
+   ],
+   "text": "Pure silicon is still not enough. The atoms also need to be lined up perfectly. So engineers melt the silicon in a quartz pot at around one thousand four hundred degrees Celsius. Then they dip a small seed crystal into the surface of the melt. Slowly, they pull it up while it spins. As the silicon cools onto the seed, it copies the seed's structure, atom by atom. The result is a long shining cylinder called an ingot. And it is one single crystal, with every atom lined up in the same pattern from one end to the other. This method is called the Czochralski process, named after the Polish scientist who discovered it."
+  },
+  {
+   "id": "s05",
+   "kind": "steps",
+   "chapter": "Wafers",
+   "chapterTitle": "Slicing wafers in a cleanroom",
+   "items": [
+    {
+     "text": "A diamond saw slices the ingot",
+     "at": "diamond"
+    },
+    {
+     "text": "Each slice is polished mirror flat",
+     "at": "mirror"
+    },
+    {
+     "text": "Result: a 300 mm wafer",
+     "at": "wafer"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Cleanroom: ISO class 1",
+     "at": "cleanroom"
+    }
+   ],
+   "footer": {
+    "text": "Dust is",
+    "highlight": "the enemy",
+    "tone": "bad",
+    "at": "enemy"
+   },
+   "broll": [
+    "1139",
+    "1136"
+   ],
+   "text": "Next, a diamond saw slices the ingot into thin discs. Each slice is then polished with a chemical slurry until it is mirror flat. Today's leading factories use discs three hundred millimetres across, about the size of a dinner plate. This disc is called a wafer, and hundreds of chips will be built on it at the same time. From now on, the wafer lives in a cleanroom. The best ones are rated ISO class one, around ten thousand times cleaner than the air outside. Workers wear full body suits, because a single particle of dust is far bigger than a transistor. In a chip factory, dust is the enemy."
+  },
+  {
+   "id": "s06",
+   "kind": "steps",
+   "chapter": "Printing with light",
+   "chapterTitle": "Photolithography step by step",
+   "items": [
+    {
+     "text": "Coat the wafer with a light-sensitive layer",
+     "at": "coated"
+    },
+    {
+     "text": "Shine light through the mask",
+     "at": "shine"
+    },
+    {
+     "text": "Wash away the exposed parts",
+     "at": "washes"
+    },
+    {
+     "text": "Etch the pattern into the wafer",
+     "at": "etch"
+    }
+   ],
+   "footer": {
+    "text": "This is the stencil step:",
+    "highlight": "photolithography",
+    "tone": "accent",
+    "at": "photolithography"
+   },
+   "broll": [
+    "47049",
+    "1141"
+   ],
+   "text": "Now comes the stencil step. First, the wafer is coated with a thin light sensitive layer called photoresist. It works a bit like old camera film. Then machines shine light through a mask, a plate that carries the pattern for one layer of the chip, and lenses shrink that pattern onto the wafer. Wherever the light hits, the photoresist changes. Next, a chemical bath washes away the exposed parts, leaving a pattern behind. Finally, gases or chemicals etch that pattern into the material below. This whole process is called photolithography, which simply means writing on stone with light."
+  },
+  {
+   "id": "s07",
+   "kind": "cards",
+   "chapter": "Extreme light",
+   "chapterTitle": "EUV: light from exploding tin",
+   "items": [
+    {
+     "title": "Wavelength",
+     "value": "13.5 nm",
+     "sub": "extreme ultraviolet light",
+     "at": "ultraviolet"
+    },
+    {
+     "title": "Tin droplet",
+     "value": "25 µm",
+     "sub": "hit by two laser pulses",
+     "at": "droplet"
+    },
+    {
+     "title": "Repeats",
+     "value": "50,000+",
+     "sub": "times every second",
+     "at": "fifty"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Machine: over $150 million",
+     "at": "million"
+    }
+   ],
+   "footer": {
+    "text": "Only one company makes them:",
+    "highlight": "ASML",
+    "tone": "accent",
+    "at": "company"
+   },
+   "broll": [
+    "47050",
+    "47051"
+   ],
+   "text": "But here is the problem. The smallest parts on the latest chips are only a few nanometres wide, smaller than the wavelength of normal light. A brush that is too wide cannot paint a thin line. So the most advanced factories use extreme ultraviolet light, with a wavelength of just thirteen point five nanometres. Making it is wild. A tiny droplet of molten tin, about twenty five micrometres wide, flies through a vacuum. A laser pulse flattens it, then a stronger pulse blasts it into a glowing plasma that gives off this light. And that repeats more than fifty thousand times every second. Each of these machines costs more than one hundred and fifty million dollars, and only one company in the world, A S M L, makes them."
+  },
+  {
+   "id": "s08",
+   "kind": "steps",
+   "chapter": "Mirrors, not lenses",
+   "chapterTitle": "Steering light that glass blocks",
+   "items": [
+    {
+     "text": "Glass and even air absorb EUV light",
+     "at": "absorbs"
+    },
+    {
+     "text": "So everything runs in a vacuum",
+     "at": "vacuum"
+    },
+    {
+     "text": "Mirrors with 100+ thin layers bounce it",
+     "at": "bounce"
+    },
+    {
+     "text": "Each mirror reflects only about 70%",
+     "at": "seventy"
+    }
+   ],
+   "footer": {
+    "text": "The wafer is positioned to",
+    "highlight": "under 1 nanometre",
+    "tone": "good",
+    "at": "positioned"
+   },
+   "broll": [
+    "1137",
+    "1141"
+   ],
+   "text": "There is another twist. This light cannot pass through glass. Even air absorbs it. So everything runs in a vacuum, and instead of lenses, the machine uses special mirrors. Each one is made of more than a hundred alternating thin layers of molybdenum and silicon, and they bounce the light toward the wafer. Even so, each mirror reflects only about seventy percent of the light, so a lot is lost on every bounce. Meanwhile, the wafer moves underneath at high speed and is positioned more accurately than one nanometre. The machine prints the same pattern again and again across the wafer, more than a hundred chips at a time."
+  },
+  {
+   "id": "s09",
+   "kind": "rows",
+   "chapter": "Building up",
+   "chapterTitle": "Doping and building the layers",
+   "items": [
+    {
+     "name": "Etch",
+     "desc": "Carve the pattern into the surface",
+     "at": "carves"
+    },
+    {
+     "name": "Dope",
+     "desc": "Fire in atoms like boron or phosphorus",
+     "at": "boron"
+    },
+    {
+     "name": "Deposit",
+     "desc": "Add a thin new layer of material",
+     "at": "deposit"
+    },
+    {
+     "name": "Polish",
+     "desc": "Flatten it for the next layer",
+     "at": "flat"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Repeated up to ~100 times",
+     "at": "hundred"
+    }
+   ],
+   "footer": {
+    "text": "Transistors at the bottom,",
+    "highlight": "wiring on top",
+    "tone": "accent",
+    "at": "wiring"
+   },
+   "broll": [
+    "1142",
+    "2381"
+   ],
+   "text": "Printing a pattern is only one step in a loop. After lithography, the factory carves the pattern into the surface. Then it dopes the silicon, firing in tiny amounts of atoms like boron or phosphorus. This changes how easily electricity flows there, and it is what turns plain silicon into transistors that can switch on and off. Next, machines deposit a thin new layer of material, and polish it flat again, ready for the next stencil. This cycle can repeat up to about a hundred times. The transistors sit at the very bottom, and above them, layer after layer of tiny copper wiring connects billions of switches together."
+  },
+  {
+   "id": "s10",
+   "kind": "steps",
+   "chapter": "Finishing",
+   "chapterTitle": "Testing, cutting and packaging",
+   "items": [
+    {
+     "text": "Every chip on the wafer is tested",
+     "at": "tested"
+    },
+    {
+     "text": "The wafer is cut into single chips",
+     "at": "cut"
+    },
+    {
+     "text": "Each chip is sealed in a package",
+     "at": "package"
+    }
+   ],
+   "chips": [
+    {
+     "text": "3–4 months from start to finish",
+     "at": "four"
+    }
+   ],
+   "footer": {
+    "text": "Thousands of steps,",
+    "highlight": "zero room for dust",
+    "tone": "accent",
+    "at": "thousands"
+   },
+   "broll": [
+    "1138",
+    "47049"
+   ],
+   "text": "When all the layers are done, the wafer is covered in a grid of identical chips. Every chip on the wafer is tested with tiny probes, and any that fail are marked. Then the wafer is cut into individual pieces. Each good chip is mounted and sealed in a package, the black or metal case you might recognise, with connections that let it plug into a circuit board. From a bare wafer to a finished chip can take three to four months, and thousands of separate steps, all without a single speck of dust in the wrong place. Only then is the chip ready to go inside your phone."
+  },
+  {
+   "id": "s11",
+   "kind": "steps",
+   "chapter": "Recap",
+   "chapterTitle": "Recap in three points",
+   "items": [
+    {
+     "text": "Sand becomes ultra-pure single-crystal silicon",
+     "at": "crystal"
+    },
+    {
+     "text": "Light prints each layer through a mask",
+     "at": "prints"
+    },
+    {
+     "text": "Up to 100 layers build billions of transistors",
+     "at": "layers"
+    }
+   ],
+   "footer": {
+    "text": "The most precise thing",
+    "highlight": "humans mass-produce",
+    "tone": "accent",
+    "at": "precise"
+   },
+   "broll": [
+    "1139",
+    "47051"
+   ],
+   "text": "Let us recap in three points. One. Sand is purified into silicon that is ninety nine point nine nine nine nine nine nine nine percent pure, then grown into a single crystal and sliced into wafers. Two. Light prints each layer of the design through a mask, and the most advanced machines use extreme ultraviolet light from exploding drops of tin. Three. Etching, doping and adding material repeat up to a hundred times, building layers that hold billions of transistors and their wiring. A chip may be the most precise thing humans mass produce."
+  },
+  {
+   "id": "s12",
+   "kind": "outro",
+   "title": "How a computer chip is made",
+   "accent": [
+    1,
+    2
+   ],
+   "next": "Why Phone Batteries Die So Fast",
+   "chapterTitle": "Your turn",
+   "broll": [
+    "1140",
+    "1136"
+   ],
+   "text": "So the next time your phone opens an app in a split second, remember that its chip began as sand, grew as one giant crystal, and was printed with light from exploding tin over several months. Now I want to hear from you. Which step surprised you the most? Tell me in the comments. If you enjoyed this, subscribe to Tech Explained. In the next video, we will find out why phone batteries die so fast, and what really wears them out."
+  }
+ ]
+}

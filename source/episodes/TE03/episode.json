@@ -1,0 +1,531 @@
+{
+ "id": "TE03",
+ "num": 3,
+ "status": "draft",
+ "title": "How a Smartphone Camera Actually Works",
+ "pillar": "How everyday tech works",
+ "music": "music_759.mp3",
+ "thumbnail": {
+  "a": {
+   "big": "INSIDE",
+   "line2": "YOUR CAMERA",
+   "tag": "Pixels can't see colour",
+   "chips": [
+    [
+     "200M pixels",
+     true
+    ],
+    [
+     "Colour filter",
+     true
+    ],
+    [
+     "15 frames",
+     true
+    ],
+    [
+     "One photo",
+     false
+    ],
+    [
+     "Real colour",
+     false
+    ]
+   ]
+  },
+  "b": {
+   "kicker": "YOUR PHONE CHEATS",
+   "from": "15 shots",
+   "to": "1 pic",
+   "line2": "BEFORE YOU TAP",
+   "tag": "How phone cameras really work"
+  }
+ },
+ "youtube": {
+  "title": "How a Smartphone Camera Actually Works (Explained Simply)",
+  "summary": "Your phone camera's pixels can't see colour, and it may start shooting before you even tap. In this video we follow light through a phone camera: the lens, the image sensor, how a pixel turns light into a number, the Bayer colour filter and demosaicing, why tiny pixels need pixel binning, and how HDR and night mode stack many frames into one clean photo.",
+  "details": "Key figures (checked November 2026):\n- Bayer filter: 50% green, 25% red, 25% blue; Bryce E. Bayer, Eastman Kodak, US patent 3,971,065 (1976)\n- Demosaicing estimates about two thirds of the colour data\n- Samsung ISOCELL HP3: 200 MP, 0.56 um pixels, 1/1.4-inch; 4-to-1 binning = 50 MP (1.12 um), 16-to-1 = 12.5 MP (2.24 um) (PetaPixel)\n- Google HDR+ buffers the latest 9 or 15 frames; Night Sight (2018) captures 6-15 frames, up to 1 s each when still, 1/15 s or less handheld (SlashGear on Google's research)",
+  "sources": [
+   {
+    "name": "Bayer filter (chemeurope encyclopedia)",
+    "url": "https://www.chemeurope.com/en/encyclopedia/Bayer_filter"
+   },
+   {
+    "name": "Bayer filter explained (PhoneArena)",
+    "url": "https://www.phonearena.com/news/Bayer-filter-explained-or-how-your-phones-camera-sees-color_id66281"
+   },
+   {
+    "name": "Samsung ISOCELL HP3 has the world's smallest pixels (PetaPixel)",
+    "url": "https://www.petapixel.com/2022/06/23/samsungs-new-200mp-hm3-camera-sensor-has-worlds-smallest-pixels"
+   },
+   {
+    "name": "How does Google Night Sight work (SlashGear)",
+    "url": "https://www.slashgear.com/google-night-sight-camera-technology-explained-info-release-history-14553723"
+   },
+   {
+    "name": "Night Sight: Seeing in the dark on Pixel phones (Google Research)",
+    "url": "https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/"
+   },
+   {
+    "name": "What is computational photography (Android Central)",
+    "url": "https://www.androidcentral.com/phones/computational-photography"
+   }
+  ],
+  "tags": [
+   "how smartphone camera works",
+   "phone camera explained",
+   "image sensor explained",
+   "bayer filter",
+   "pixel binning",
+   "computational photography",
+   "night mode explained",
+   "how does a camera work",
+   "megapixels explained",
+   "demosaicing",
+   "tech explained",
+   "how it works"
+  ],
+  "hashtags": [
+   "#techexplained",
+   "#howitworks",
+   "#camera"
+  ],
+  "category": "SCIENCE_TECHNOLOGY"
+ },
+ "metricool": {},
+ "shorts": [
+  {
+   "scenes": [
+    "s09"
+   ],
+   "headline": "Your phone takes photos before you tap",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s05"
+   ],
+   "headline": "Your camera's pixels can't see colour",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s10"
+   ],
+   "headline": "How night mode sees in the dark",
+   "cta": "Full video on our channel"
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "kind": "stat",
+   "chapter": "The question",
+   "chapterTitle": "Intro: what happens when you tap",
+   "badge": "Pixels on one phone sensor",
+   "numberValue": 200,
+   "unit": "million",
+   "sub": "tiny light sensors on a chip smaller than a fingernail",
+   "big": {
+    "at": "million"
+   },
+   "chips": [
+    {
+     "text": "Pixels can't see color",
+     "at": "colour"
+    },
+    {
+     "text": "Photos taken before you tap",
+     "at": "before"
+    },
+    {
+     "text": "Maths does the rest",
+     "at": "maths"
+    }
+   ],
+   "broll": [
+    "23366",
+    "51252"
+   ],
+   "text": "You point your phone, tap the button, and a sharp, colourful photo appears in a fraction of a second. It feels simple. But inside that tiny camera bump, something remarkable is happening. Some phones now pack two hundred million pixels onto a chip smaller than your fingernail. And here are two surprising facts. First, not one of those pixels can actually see colour. Second, your phone may have started taking photos before you even pressed the button. By the end of this video, you will understand how light becomes a photo, why the pixels are colour blind, and how your phone uses maths to make a picture that a tiny lens should never be able to take."
+  },
+  {
+   "id": "s02",
+   "kind": "steps",
+   "chapter": "A simple analogy",
+   "chapterTitle": "Buckets in the rain",
+   "items": [
+    {
+     "text": "A field full of tiny buckets",
+     "at": "buckets"
+    },
+    {
+     "text": "Rain falls: brighter light, more drops",
+     "at": "rain"
+    },
+    {
+     "text": "Measure each bucket = one pixel",
+     "at": "measure"
+    }
+   ],
+   "footer": {
+    "text": "Light is collected",
+    "highlight": "one pixel at a time",
+    "tone": "accent",
+    "at": "collected"
+   },
+   "broll": [
+    "2373",
+    "21262"
+   ],
+   "text": "Let us start with a simple picture. Imagine a huge field covered in millions of tiny buckets, all lined up in a grid. Now it starts to rain. Where the rain falls heavily, the buckets fill up. Where it is only drizzling, they stay almost empty. When the rain stops, you walk along and measure how much water is in each bucket. Write those numbers down in order, and you have a map of where the rain fell. That is almost exactly how a camera sensor works. Each bucket is a pixel. The rain is light. And the numbers you write down become your photo. The brighter a spot in the scene, the more light is collected in that pixel."
+  },
+  {
+   "id": "s03",
+   "kind": "rows",
+   "chapter": "Inside the camera",
+   "chapterTitle": "The parts of a phone camera",
+   "items": [
+    {
+     "name": "Lens",
+     "desc": "Bends light into a sharp image",
+     "at": "lens"
+    },
+    {
+     "name": "Image sensor",
+     "desc": "A grid of millions of light-sensitive pixels",
+     "at": "sensor"
+    },
+    {
+     "name": "Image processor",
+     "desc": "A chip that turns raw numbers into a photo",
+     "at": "processor"
+    },
+    {
+     "name": "Software",
+     "desc": "Combines frames, fixes colour and noise",
+     "at": "software"
+    }
+   ],
+   "footer": {
+    "text": "The camera is",
+    "highlight": "half hardware, half maths",
+    "tone": "accent",
+    "at": "half"
+   },
+   "broll": [
+    "2377",
+    "48529"
+   ],
+   "text": "So what is actually inside the camera bump? There are four main parts. First, the lens. It is a stack of tiny curved pieces of glass or plastic that bend incoming light, so a sharp image lands on the chip behind it. Second, the image sensor. This is the field of buckets, a grid of millions of light sensitive pixels. Third, the image processor, a dedicated chip that turns the raw numbers from the sensor into a picture. And fourth, the software, which combines frames, corrects colours, and cleans up noise. A modern phone camera is honestly half hardware and half maths. Let us follow the light through each step."
+  },
+  {
+   "id": "s04",
+   "kind": "steps",
+   "chapter": "Light becomes numbers",
+   "chapterTitle": "How a pixel turns light into a number",
+   "items": [
+    {
+     "text": "Light particles hit the silicon",
+     "at": "silicon"
+    },
+    {
+     "text": "They knock loose tiny electric charges",
+     "at": "loose"
+    },
+    {
+     "text": "More light = more charge",
+     "at": "charge"
+    },
+    {
+     "text": "The charge is read out as a number",
+     "at": "number"
+    }
+   ],
+   "footer": {
+    "text": "A pixel measures",
+    "highlight": "brightness only",
+    "tone": "accent",
+    "at": "brightness"
+   },
+   "broll": [
+    "2374",
+    "1505"
+   ],
+   "text": "Light is made of tiny packets of energy called photons. When you take a photo, the lens focuses those photons onto the sensor, which is made of silicon. When a photon hits a pixel, it can knock loose a tiny electric charge inside the silicon. The more light that falls on that pixel, the more charge builds up, just like a bucket filling with rain. When the exposure ends, the sensor reads out the charge from every pixel and converts it into a number. A big number means a bright spot. A small number means a dark one. But notice what is missing. That number only tells you how much light arrived. It says nothing about what colour it was. Every pixel measures brightness only."
+  },
+  {
+   "id": "s05",
+   "kind": "cards",
+   "chapter": "Colour-blind pixels",
+   "chapterTitle": "The Bayer filter: how a sensor sees colour",
+   "items": [
+    {
+     "title": "Green",
+     "value": "50%",
+     "sub": "of all pixels",
+     "at": "half"
+    },
+    {
+     "title": "Red",
+     "value": "25%",
+     "sub": "of all pixels",
+     "at": "quarter"
+    },
+    {
+     "title": "Blue",
+     "value": "25%",
+     "sub": "of all pixels",
+     "at": "blue"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Bryce Bayer, Kodak",
+     "at": "kodak"
+    },
+    {
+     "text": "Patented 1976",
+     "at": "seventy"
+    }
+   ],
+   "footer": {
+    "text": "Twice as much green:",
+    "highlight": "like the human eye",
+    "tone": "accent",
+    "at": "eye"
+   },
+   "broll": [
+    "41617",
+    "23366"
+   ],
+   "text": "So how does a colour blind sensor make a colour photo? The trick was invented by a Kodak scientist named Bryce Bayer, and patented in nineteen seventy six. On top of the sensor sits a tiny mosaic of coloured filters, one over each pixel. Each filter lets through only red, only green, or only blue light. So every pixel now measures just one colour. In the Bayer pattern, half of the pixels are green, a quarter are red, and the last quarter are blue. Why so much green? Because Bayer matched the pattern to the human eye, which picks out the most detail in green light. Almost every phone camera today still uses this idea, or a close variation of it."
+  },
+  {
+   "id": "s06",
+   "kind": "steps",
+   "chapter": "Filling in the gaps",
+   "chapterTitle": "Demosaicing: guessing the missing colours",
+   "items": [
+    {
+     "text": "Each pixel knows only one colour",
+     "at": "one"
+    },
+    {
+     "text": "It borrows the other two from its neighbours",
+     "at": "neighbours"
+    },
+    {
+     "text": "About two thirds of the colour data is estimated",
+     "at": "thirds"
+    }
+   ],
+   "footer": {
+    "text": "This step is called",
+    "highlight": "demosaicing",
+    "tone": "accent",
+    "at": "demosaicing"
+   },
+   "broll": [
+    "48529",
+    "2377"
+   ],
+   "text": "But wait. If each pixel only knows one colour, how does every pixel in your photo end up with full colour? The answer is educated guessing. A red pixel looks at the green and blue pixels right around it, and borrows their values to estimate the two colours it is missing. Every pixel does the same with its neighbours. That means about two thirds of the colour information in a normal photo was never directly measured. It was calculated. This step is called demosaicing, because it turns the mosaic of single colour pixels into a full colour image. When it goes wrong, you sometimes see strange rainbow patterns on fine stripes, like a checked shirt or a distant fence."
+  },
+  {
+   "id": "s07",
+   "kind": "cards",
+   "chapter": "Tiny pixels",
+   "chapterTitle": "How small are phone pixels?",
+   "items": [
+    {
+     "title": "Resolution",
+     "value": "200 MP",
+     "sub": "Samsung ISOCELL HP3",
+     "at": "hundred"
+    },
+    {
+     "title": "Pixel width",
+     "value": "0.56 µm",
+     "sub": "millionths of a metre",
+     "at": "point"
+    },
+    {
+     "title": "Sensor size",
+     "value": "1/1.4\"",
+     "sub": "smaller than a fingernail",
+     "at": "fingernail"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Far thinner than a human hair",
+     "at": "hair"
+    }
+   ],
+   "footer": {
+    "text": "Smaller pixels catch",
+    "highlight": "less light each",
+    "tone": "bad",
+    "at": "less"
+   },
+   "broll": [
+    "2373",
+    "4915"
+   ],
+   "text": "Now, how small are these pixels? Take one example. Samsung's ISOCELL H P three sensor has two hundred million pixels, and each one is just zero point five six micrometres wide. A micrometre is one millionth of a metre, so each pixel is far thinner than a human hair. And the whole sensor is still smaller than your fingernail. That is an incredible piece of engineering, but it comes with a problem. Remember the buckets in the rain. A tiny bucket catches only a few drops. Smaller pixels catch less light each, and when there is not much light, the random noise in the measurement starts to show up as grain. So how do phones get clean photos from such tiny pixels?"
+  },
+  {
+   "id": "s08",
+   "kind": "rows",
+   "chapter": "Pixel binning",
+   "chapterTitle": "Pixel binning: many small pixels act as one",
+   "items": [
+    {
+     "name": "Full resolution",
+     "desc": "200 MP · 0.56 µm pixels · bright light",
+     "at": "full"
+    },
+    {
+     "name": "4 into 1",
+     "desc": "50 MP · acts like 1.12 µm pixels",
+     "at": "four"
+    },
+    {
+     "name": "16 into 1",
+     "desc": "12.5 MP · acts like 2.24 µm pixels",
+     "at": "sixteen"
+    }
+   ],
+   "footer": {
+    "text": "Fewer pixels,",
+    "highlight": "more light each",
+    "tone": "good",
+    "at": "fewer"
+   },
+   "broll": [
+    "47310",
+    "1505"
+   ],
+   "text": "The first answer is called pixel binning. Instead of using every tiny pixel on its own, the phone groups neighbouring pixels together and treats them as one big pixel. It is like pouring four small buckets into one large bucket. On that Samsung sensor, combining four pixels into one gives a fifty megapixel photo with pixels that act like one point one two micrometres wide. Combining sixteen into one gives a twelve point five megapixel photo, with pixels that act like two point two four micrometres. In bright daylight, the phone can use full resolution for detail. In dim light, it switches to binning. Fewer pixels, but more light each, and a much cleaner image."
+  },
+  {
+   "id": "s09",
+   "kind": "stat",
+   "chapter": "Photos before you tap",
+   "chapterTitle": "Your phone shoots before you press",
+   "badge": "Frames already saved when you tap",
+   "numberValue": 15,
+   "unit": "frames",
+   "sub": "Google HDR+ keeps the latest 9 or 15 frames in memory",
+   "big": {
+    "at": "fifteen"
+   },
+   "chips": [
+    {
+     "text": "Stacked into one photo",
+     "at": "stacks"
+    },
+    {
+     "text": "Less noise, more detail",
+     "at": "noise"
+    }
+   ],
+   "broll": [
+    "51252",
+    "23095"
+   ],
+   "text": "And the second answer is even more surprising. When your camera app is open, many phones are already capturing frames, constantly, before you press anything. Google's HDR plus system, for example, keeps the most recent nine or fifteen frames in memory. The moment you tap the shutter, it grabs those frames from just before your tap, lines them up, and stacks them into one photo. Each single frame is a little noisy, but the noise is random, so it is different in every frame. The real detail is the same in every frame. Averaging many frames together keeps the detail and cancels out much of the noise. That is why the photo you get is cleaner than any single frame the sensor captured."
+  },
+  {
+   "id": "s10",
+   "kind": "cards",
+   "chapter": "Night mode",
+   "chapterTitle": "How night mode sees in the dark",
+   "items": [
+    {
+     "title": "Frames",
+     "value": "6–15",
+     "sub": "captured after you tap",
+     "at": "six"
+    },
+    {
+     "title": "Phone held still",
+     "value": "up to 1 s",
+     "sub": "per frame",
+     "at": "second"
+    },
+    {
+     "title": "Handheld",
+     "value": "≤1/15 s",
+     "sub": "short frames to avoid blur",
+     "at": "holding"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Google Night Sight, 2018",
+     "at": "sight"
+    }
+   ],
+   "footer": {
+    "text": "Then the software",
+    "highlight": "aligns and merges them",
+    "tone": "accent",
+    "at": "aligns"
+   },
+   "broll": [
+    "26893",
+    "47310"
+   ],
+   "text": "Night mode takes this idea to the extreme. When Google launched Night Sight in twenty eighteen, it captured between six and fifteen frames after you pressed the shutter. If the phone was resting perfectly still, each frame could be exposed for up to one second. If you were holding it in your hand, it used shorter frames, about one fifteenth of a second or less, to avoid blur from your shaking hands. Then the software aligns all those frames, even if the phone moved a little, and merges them into one bright, clean image. That is why your phone asks you to hold still for a few seconds at night. It is not taking one photo. It is taking many and blending them."
+  },
+  {
+   "id": "s11",
+   "kind": "steps",
+   "chapter": "Recap",
+   "chapterTitle": "Recap in three points",
+   "items": [
+    {
+     "text": "Pixels turn light into numbers, brightness only",
+     "at": "brightness"
+    },
+    {
+     "text": "A colour filter plus guessing creates colour",
+     "at": "guessing"
+    },
+    {
+     "text": "Many frames are stacked into one photo",
+     "at": "frames"
+    }
+   ],
+   "footer": {
+    "text": "Every photo is",
+    "highlight": "part captured, part calculated",
+    "tone": "accent",
+    "at": "calculated"
+   },
+   "broll": [
+    "23366",
+    "41617"
+   ],
+   "text": "Let us recap in three points. One. The lens focuses light onto millions of tiny pixels, and each pixel turns light into a number that measures brightness only. Two. A mosaic of red, green and blue filters, plus clever guessing from neighbouring pixels, turns those colour blind numbers into a full colour image. Three. Because the pixels are so small, phones use binning and capture many frames, then stack them together to cut noise and see in the dark. So every photo on your phone is part captured, and part calculated."
+  },
+  {
+   "id": "s12",
+   "kind": "outro",
+   "title": "Inside your phone camera",
+   "accent": [
+    2,
+    3
+   ],
+   "next": "What Happens When You Press Send on WhatsApp",
+   "chapterTitle": "Your turn",
+   "broll": [
+    "21262",
+    "2373"
+   ],
+   "text": "So the next time you snap a photo, remember that millions of colour blind buckets, a Kodak idea from the nineteen seventies, and a burst of frames you never saw all worked together in a fraction of a second. Now I want to hear from you. Did you know your phone takes photos before you tap? Tell me in the comments. If you enjoyed this, subscribe to Tech Explained. In the next video, we will find out what really happens when you press send on WhatsApp."
+  }
+ ]
+}

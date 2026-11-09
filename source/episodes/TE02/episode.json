@@ -1,0 +1,538 @@
+{
+ "id": "TE02",
+ "num": 2,
+ "status": "draft",
+ "title": "How GPS Knows Exactly Where You Are",
+ "pillar": "How everyday tech works",
+ "music": "music_744.mp3",
+ "thumbnail": {
+  "a": {
+   "big": "GPS",
+   "line2": "FINDS YOU",
+   "tag": "Your phone only listens",
+   "chips": [
+    [
+     "Atomic clocks",
+     true
+    ],
+    [
+     "4 satellites",
+     true
+    ],
+    [
+     "Einstein",
+     true
+    ],
+    [
+     "Internet",
+     false
+    ],
+    [
+     "Tracking you",
+     false
+    ]
+   ]
+  },
+  "b": {
+   "kicker": "ONE MICROSECOND OFF",
+   "from": "1 µs",
+   "to": "300 m",
+   "line2": "WRONG STREET",
+   "tag": "Why GPS needs Einstein"
+  }
+ },
+ "youtube": {
+  "title": "How GPS Knows Exactly Where You Are (Explained Simply)",
+  "summary": "Your phone finds you anywhere on Earth without sending a single signal to space. In this video we explain how GPS really works: what the satellites broadcast, how your phone turns signal travel time into distance, why it needs four satellites, why a one-microsecond clock error means 300 metres, how Einstein's relativity is built into the system, how assisted GPS gives a fix in seconds, and why the blue dot jumps around in cities.",
+  "details": "Key figures (checked November 2026):\n- 32 operational GPS satellites as of October 2026 (US Coast Guard NAVCEN status via KeepTrack); US commits to at least 24 available\n- Orbit about 20,200 km, 6 orbital planes, two orbits a day (Gunter's Space Page)\n- Relativity: about -7 us/day (speed) and +45 us/day (weaker gravity), net +38 us/day; uncorrected about 10 km error a day (Tech for Space / ESA material)\n- GPS-enabled smartphones: typically within 4.9 m (16 ft) under open sky (GPS.gov)\n- Navigation message at 50 bit/s; unassisted start can take up to 12.5 minutes (Assisted GNSS)",
+  "sources": [
+   {
+    "name": "How many GPS satellites are there (KeepTrack, Oct 2026)",
+    "url": "https://keeptrack.space/live-count/how-many-gps-satellites-are-there"
+   },
+   {
+    "name": "GPS navigation system (Gunter's Space Page)",
+    "url": "https://space.skyrocket.de/doc_sat/gps.htm"
+   },
+   {
+    "name": "GPS accuracy (GPS.gov, archived)",
+    "url": "https://webarchive.library.unt.edu/web/20201218023132/https://www.gps.gov/systems/gps/performance/accuracy"
+   },
+   {
+    "name": "GPS and relativity (Tech for Space)",
+    "url": "https://www.techforspace.com/missions/galileo/gps-and-relativity/"
+   },
+   {
+    "name": "Assisted GNSS (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Assisted_GNSS"
+   }
+  ],
+  "tags": [
+   "how gps works",
+   "gps explained",
+   "how does gps work",
+   "gps satellites",
+   "trilateration",
+   "gps relativity",
+   "einstein gps",
+   "assisted gps",
+   "phone gps accuracy",
+   "galileo glonass beidou",
+   "tech explained",
+   "how it works"
+  ],
+  "hashtags": [
+   "#techexplained",
+   "#howitworks",
+   "#gps"
+  ],
+  "category": "SCIENCE_TECHNOLOGY"
+ },
+ "metricool": {},
+ "shorts": [
+  {
+   "scenes": [
+    "s07"
+   ],
+   "headline": "GPS would be 10 km off without Einstein",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s05"
+   ],
+   "headline": "Why your phone needs 4 satellites",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s09"
+   ],
+   "headline": "Why the blue dot jumps in cities",
+   "cta": "Full video on our channel"
+  }
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "kind": "stat",
+   "chapter": "The question",
+   "chapterTitle": "Intro: how does your phone know?",
+   "badge": "GPS satellites in service",
+   "numberValue": 32,
+   "unit": "satellites",
+   "sub": "working right now, about 20,200 km above you",
+   "big": {
+    "at": "thirty"
+   },
+   "chips": [
+    {
+     "text": "No typing, no address",
+     "at": "typing"
+    },
+    {
+     "text": "No signal sent back",
+     "at": "listening"
+    },
+    {
+     "text": "Works by timing",
+     "at": "time"
+    }
+   ],
+   "broll": [
+    "45033",
+    "22149"
+   ],
+   "text": "Open a map on your phone, and a blue dot appears exactly where you are standing. No typing, no address, nothing. But your phone has never seen this street before. So how does it know? The answer is up in space. Right now, thirty two GPS satellites are working in orbit, about twenty thousand kilometres above you, and your phone can hear several of them at this very moment. Here is the strange part. Your phone never sends anything back to them. It is only listening. And it works out your position from one simple thing: time. Not pictures, not cameras. Time. By the end of this video, you will understand exactly how a few faint radio signals turn into that blue dot, and why Albert Einstein is part of the story."
+  },
+  {
+   "id": "s02",
+   "kind": "steps",
+   "chapter": "A simple analogy",
+   "chapterTitle": "The thunder trick",
+   "items": [
+    {
+     "text": "See the lightning flash",
+     "at": "flash"
+    },
+    {
+     "text": "Count the seconds until thunder",
+     "at": "count"
+    },
+    {
+     "text": "Time × speed = distance",
+     "at": "distance"
+    }
+   ],
+   "footer": {
+    "text": "GPS does this with",
+    "highlight": "radio signals",
+    "tone": "accent",
+    "at": "radio"
+   },
+   "broll": [
+    "15720",
+    "12978"
+   ],
+   "text": "Let us start with something you may already know. When there is a storm, you see the lightning flash first, then you hear the thunder a few seconds later. If you count the seconds between them, you can work out how far away the storm is, because sound travels at a known speed. Three seconds is roughly one kilometre. That is the whole trick behind GPS. If you know when a signal left, and when it arrived, and how fast it travels, you know the distance it travelled. The only difference is that GPS does not use sound. It uses radio signals, which travel at the speed of light. And that makes the timing incredibly demanding, as we will see in a moment."
+  },
+  {
+   "id": "s03",
+   "kind": "cards",
+   "chapter": "The satellites",
+   "chapterTitle": "Meet the GPS constellation",
+   "items": [
+    {
+     "title": "Altitude",
+     "value": "~20,200 km",
+     "sub": "above the Earth",
+     "at": "altitude"
+    },
+    {
+     "title": "Orbits",
+     "value": "2 a day",
+     "sub": "about 12 hours each",
+     "at": "twice"
+    },
+    {
+     "title": "Orbital planes",
+     "value": "6",
+     "sub": "spread around the globe",
+     "at": "six"
+    }
+   ],
+   "chips": [
+    {
+     "text": "US commitment: 24+ available",
+     "at": "twenty"
+    },
+    {
+     "text": "Run by the US Space Force",
+     "at": "force"
+    }
+   ],
+   "footer": {
+    "text": "From almost anywhere:",
+    "highlight": "4+ satellites in view",
+    "tone": "accent",
+    "at": "four"
+   },
+   "broll": [
+    "47400",
+    "34314"
+   ],
+   "text": "So who is sending these signals? The GPS constellation is a group of satellites run by the United States Space Force. They fly at an altitude of about twenty thousand two hundred kilometres, and each one circles the Earth twice a day. They are spread across six different orbital planes, like rings around the planet, tilted at different angles. The United States commits to keeping at least twenty four satellites available, and in practice there are more, which gives spares and better coverage. The layout is designed so that from almost anywhere on Earth, at least four satellites are above the horizon at any moment. Remember that number, four. It turns out to be the magic number."
+  },
+  {
+   "id": "s04",
+   "kind": "steps",
+   "chapter": "What they send",
+   "chapterTitle": "What a GPS satellite actually sends",
+   "items": [
+    {
+     "text": "The exact time the signal left",
+     "at": "exact"
+    },
+    {
+     "text": "Where the satellite is in its orbit",
+     "at": "where"
+    },
+    {
+     "text": "Broadcast nonstop to everyone",
+     "at": "nonstop"
+    }
+   ],
+   "footer": {
+    "text": "Trip down to you:",
+    "highlight": "~67 thousandths of a second",
+    "tone": "accent",
+    "at": "sixty"
+   },
+   "broll": [
+    "45037",
+    "44965"
+   ],
+   "text": "Each satellite carries atomic clocks, some of the most precise clocks ever built. And every satellite does one job, over and over. It broadcasts a message that says, in effect, this is the exact time right now, and this is where I am in my orbit. It sends this nonstop, to everyone, for free. Your phone picks up that message and compares the time stamp with its own clock. The difference is how long the signal took to arrive. Coming straight down from twenty thousand kilometres, that trip takes about sixty seven thousandths of a second. Multiply that travel time by the speed of light, and your phone knows its distance from that satellite. One satellite, one distance."
+  },
+  {
+   "id": "s05",
+   "kind": "steps",
+   "chapter": "Finding your spot",
+   "chapterTitle": "Trilateration: from distances to a dot",
+   "items": [
+    {
+     "text": "1 satellite: you are somewhere on a huge sphere",
+     "at": "sphere"
+    },
+    {
+     "text": "2 satellites: the spheres meet in a circle",
+     "at": "circle"
+    },
+    {
+     "text": "3 satellites: down to just two points",
+     "at": "points"
+    },
+    {
+     "text": "4th satellite: fixes the phone's clock",
+     "at": "fourth"
+    }
+   ],
+   "footer": {
+    "text": "This is called",
+    "highlight": "trilateration",
+    "tone": "accent",
+    "at": "trilateration"
+   },
+   "broll": [
+    "22150",
+    "27764"
+   ],
+   "text": "But one distance is not enough. If you know you are twenty one thousand kilometres from one satellite, you could be anywhere on a giant sphere with that satellite at its centre. Add a second satellite, and the two spheres overlap in a circle. Add a third, and that circle is cut down to just two points, and one of them is usually far out in space, so it can be thrown away. So why do we need the fourth? Because your phone's clock is cheap. It is not an atomic clock, and it is never perfectly in sync. The fourth satellite gives one more equation, which lets the phone solve for its own clock error at the same time as its position. This method is called trilateration."
+  },
+  {
+   "id": "s06",
+   "kind": "stat",
+   "chapter": "Why time matters",
+   "chapterTitle": "Why every microsecond counts",
+   "badge": "Clock off by one microsecond",
+   "numberValue": 300,
+   "unit": "metres off",
+   "sub": "light travels about 300 m in a millionth of a second",
+   "big": {
+    "at": "hundred"
+   },
+   "chips": [
+    {
+     "text": "Satellites: atomic clocks",
+     "at": "atomic"
+    },
+    {
+     "text": "Phone: solves its own error",
+     "at": "solves"
+    }
+   ],
+   "broll": [
+    "34352",
+    "45037"
+   ],
+   "text": "Here is why the timing is so demanding. Light travels about three hundred thousand kilometres every second. So if a clock is off by just one microsecond, that is one millionth of a second, the distance comes out wrong by about three hundred metres. That would put your blue dot on the wrong street, or in the middle of a river. This is why the satellites carry atomic clocks, and why ground stations constantly monitor them and send corrections. And it is why your phone needs that fourth satellite. It cannot carry an atomic clock in your pocket, so instead it solves its own clock error with maths, every time it updates your position."
+  },
+  {
+   "id": "s07",
+   "kind": "cards",
+   "chapter": "Einstein in your pocket",
+   "chapterTitle": "Relativity: the Einstein correction",
+   "items": [
+    {
+     "title": "Moving fast",
+     "value": "−7 µs/day",
+     "sub": "special relativity: clocks tick slower",
+     "at": "seven"
+    },
+    {
+     "title": "Weaker gravity",
+     "value": "+45 µs/day",
+     "sub": "general relativity: clocks tick faster",
+     "at": "forty"
+    },
+    {
+     "title": "Net drift",
+     "value": "+38 µs/day",
+     "sub": "corrected in the system",
+     "at": "thirty"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Uncorrected: ~10 km error a day",
+     "at": "ten"
+    }
+   ],
+   "footer": {
+    "text": "Einstein's theory",
+    "highlight": "checked every day",
+    "tone": "accent",
+    "at": "einstein"
+   },
+   "broll": [
+    "47401",
+    "45033"
+   ],
+   "text": "Now for the strangest part. Einstein's theories of relativity say that time does not flow at the same rate everywhere. Because the satellites move so fast, special relativity makes their clocks tick slower, by about seven microseconds a day. But because they are far from Earth, where gravity is weaker, general relativity makes their clocks tick faster, by about forty five microseconds a day. Put together, the satellite clocks run ahead by about thirty eight microseconds every day. That sounds tiny. But remember, one microsecond is three hundred metres. Left uncorrected, the error would build up to around ten kilometres in a single day. So GPS has the correction built in. Every time you use maps, Einstein is quietly being checked."
+  },
+  {
+   "id": "s08",
+   "kind": "rows",
+   "chapter": "Why your phone is fast",
+   "chapterTitle": "Assisted GPS: the phone's shortcut",
+   "items": [
+    {
+     "name": "Satellite data rate",
+     "desc": "Only 50 bits per second",
+     "at": "fifty"
+    },
+    {
+     "name": "Cold start, no help",
+     "desc": "Up to 12.5 minutes to get full orbit data",
+     "at": "twelve"
+    },
+    {
+     "name": "Assisted GPS",
+     "desc": "Downloads orbit data over mobile or Wi-Fi",
+     "at": "assisted"
+    },
+    {
+     "name": "Result",
+     "desc": "A fix in seconds, not minutes",
+     "at": "seconds"
+    }
+   ],
+   "footer": {
+    "text": "GPS itself",
+    "highlight": "never needs internet",
+    "tone": "accent",
+    "at": "never"
+   },
+   "broll": [
+    "15741",
+    "4915"
+   ],
+   "text": "So if the satellites are this far away, why does your phone find you in just a few seconds? Here is the catch. The satellites send their orbit data very slowly, at only fifty bits per second. A basic GPS receiver starting from scratch can need up to twelve and a half minutes to collect all of it. Your phone cheats, in a good way. It uses something called assisted GPS. It downloads the satellite orbit data and the precise time over your mobile network or Wi-Fi, which is thousands of times faster. Then it only needs to listen for the timing signals. The result is a fix in seconds, not minutes. But the positioning itself never needs internet. GPS works in a desert with no signal at all."
+  },
+  {
+   "id": "s09",
+   "kind": "compare",
+   "chapter": "How accurate is it?",
+   "chapterTitle": "How accurate is phone GPS?",
+   "cards": [
+    {
+     "title": "Open sky",
+     "sub": "clear view of satellites",
+     "at": "open"
+    },
+    {
+     "title": "Between tall buildings",
+     "sub": "signals blocked and bounced",
+     "at": "buildings"
+    }
+   ],
+   "big": {
+    "value": "4.9 m",
+    "sub": "typical phone accuracy, open sky",
+    "at": "four"
+   },
+   "bars": [
+    {
+     "label": "Open sky",
+     "value": "~4.9 m",
+     "fill": 0.3,
+     "tone": "good",
+     "at": "radius"
+    },
+    {
+     "label": "City, trees, indoors",
+     "value": "worse",
+     "fill": 0.85,
+     "tone": "bad",
+     "at": "trees"
+    }
+   ],
+   "footer": {
+    "text": "Bounced signals are called",
+    "highlight": "multipath",
+    "tone": "bad",
+    "at": "multipath"
+   },
+   "broll": [
+    "41541",
+    "22149"
+   ],
+   "text": "So how accurate is it? According to the official US government GPS website, a GPS enabled smartphone is typically accurate to within about four point nine metres, roughly sixteen feet, under open sky. That is a radius about the size of a small room. But that is the best case. Accuracy drops when signals are blocked by buildings, bridges or trees, and indoors it can fail completely. In cities there is another problem. Signals bounce off glass and concrete before reaching you, so they travel a longer path and arrive late. This is called multipath. Your phone thinks the satellite is farther away than it really is, and that is why the blue dot sometimes jumps across the street downtown."
+  },
+  {
+   "id": "s10",
+   "kind": "rows",
+   "chapter": "Not just GPS",
+   "chapterTitle": "GPS, Galileo, GLONASS and BeiDou",
+   "items": [
+    {
+     "name": "GPS",
+     "desc": "United States",
+     "at": "united"
+    },
+    {
+     "name": "GLONASS",
+     "desc": "Russia",
+     "at": "russia"
+    },
+    {
+     "name": "Galileo",
+     "desc": "European Union",
+     "at": "european"
+    },
+    {
+     "name": "BeiDou",
+     "desc": "China",
+     "at": "china"
+    }
+   ],
+   "footer": {
+    "text": "Modern phones listen to",
+    "highlight": "several systems at once",
+    "tone": "accent",
+    "at": "several"
+   },
+   "broll": [
+    "34314",
+    "20850"
+   ],
+   "text": "And here is something most people do not know. GPS is just one of several satellite navigation systems. GPS belongs to the United States. GLONASS is run by Russia. Galileo is built by the European Union, and BeiDou is operated by China. Together they are called G N S S, global navigation satellite systems. Most modern smartphones can listen to several of these systems at once. More satellites in view means more distances to compare, which helps a lot in cities, where many satellites are hidden behind buildings. So when you say GPS, your phone may actually be using satellites from three or four different countries to place that blue dot."
+  },
+  {
+   "id": "s11",
+   "kind": "steps",
+   "chapter": "Recap",
+   "chapterTitle": "Recap in three points",
+   "items": [
+    {
+     "text": "Satellites broadcast time and position",
+     "at": "broadcast"
+    },
+    {
+     "text": "Travel time gives distance; 4 satellites give your spot",
+     "at": "travel"
+    },
+    {
+     "text": "Atomic clocks and Einstein keep it accurate",
+     "at": "accurate"
+    }
+   ],
+   "footer": {
+    "text": "Your phone only",
+    "highlight": "listens",
+    "tone": "accent",
+    "at": "listens"
+   },
+   "broll": [
+    "45037",
+    "22150"
+   ],
+   "text": "Let us recap in three points. One. GPS satellites constantly broadcast the exact time and their position in orbit. Two. Your phone measures how long each signal took to arrive, turns that travel time into a distance, and with four satellites it finds both its position and its own clock error. Three. Atomic clocks, ground corrections, and Einstein's relativity keep the whole system accurate to a few metres. And the most surprising part. Your phone never talks to the satellites. It only listens, which is why billions of people can use GPS at the same time, for free."
+  },
+  {
+   "id": "s12",
+   "kind": "outro",
+   "title": "How GPS finds you",
+   "accent": [
+    3
+   ],
+   "next": "How a Smartphone Camera Actually Works",
+   "chapterTitle": "Your turn",
+   "broll": [
+    "22149",
+    "47400"
+   ],
+   "text": "So the next time that blue dot appears on your map, remember there are atomic clocks twenty thousand kilometres above you, and a little bit of Einstein, working to put it there. Now I want to hear from you. Did you know GPS needs relativity to work? Tell me in the comments. If you enjoyed this, subscribe to Tech Explained. In the next video, we will find out how your smartphone camera actually works."
+  }
+ ]
+}

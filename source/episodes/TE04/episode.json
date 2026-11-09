@@ -1,0 +1,243 @@
+{
+ "id": "TE04",
+ "num": 4,
+ "status": "draft",
+ "title": "What Happens When You Press Send on WhatsApp",
+ "pillar": "How everyday tech works",
+ "music": "music_744.mp3",
+ "thumbnail": {
+  "a": {
+   "big": "SEND",
+   "line2": "WHAT REALLY HAPPENS",
+   "tag": "Even WhatsApp can't read it",
+   "chips": [
+    ["New key every message", true],
+    ["Locked on your phone", true],
+    ["Deleted after delivery", true],
+    ["Server reads it", false],
+    ["One key forever", false]
+   ]
+  },
+  "b": {
+   "kicker": "EVERY MESSAGE",
+   "from": "1 text",
+   "to": "new key",
+   "line2": "LOCKED BEFORE IT LEAVES",
+   "tag": "How WhatsApp send works"
+  }
+ },
+ "youtube": {
+  "title": "What Really Happens When You Press Send on WhatsApp (Explained Simply)",
+  "summary": "You tap send and a grey tick appears in a blink. In that moment your phone locks the message with a brand new key, sends it through an encrypted tunnel to WhatsApp's servers, and the server passes on a box it cannot open. In this video we follow one message: the keys your phone makes when you install WhatsApp, how two phones agree on a secret even when one is offline, why every message gets a new key, what the grey and blue ticks really mean, how photos and group chats are handled, and how long the server keeps your message.",
+  "details": "Key figures (checked November 2026):\n- About 100 billion messages a day (Mark Zuckerberg, Facebook Q3 2020 earnings call)\n- More than 3 billion monthly users (Mark Zuckerberg, Meta Q1 2025 earnings call)\n- Keys: identity key, signed pre key and one-time pre keys (Curve25519); only public halves are uploaded (WhatsApp Security Whitepaper)\n- Session setup combines four key exchanges into a master secret; works while the recipient is offline\n- Each message key is 80 bytes: 32-byte AES-256 key, 32-byte HMAC-SHA256 key, 16-byte IV; keys ratchet forward after every message\n- Media: encrypted with a random key, uploaded as an encrypted blob; the key travels inside the message\n- Groups: sender keys; message encrypted once, server fans it out\n- Delivered messages are deleted from the servers; undelivered ones are kept encrypted for up to 30 days (WhatsApp Privacy Policy)",
+  "sources": [
+   {"name": "WhatsApp Security Whitepaper (Encryption Overview)", "url": "https://s3.documentcloud.org/documents/2786495/WhatsApp-Security-Whitepaper-April-4-2016.pdf"},
+   {"name": "WhatsApp Privacy Policy: how messages are stored", "url": "https://www.whatsapp.com/legal/privacy-policy?lang=en"},
+   {"name": "What does one tick mean on WhatsApp (TechFinitive)", "url": "https://www.techfinitive.com/explainers/what-does-one-tick-mean-on-whatsapp/"},
+   {"name": "100 billion messages a day, Zuckerberg (Kahawatungu)", "url": "https://kahawatungu.com/at-least-100-billion-messages-are-exchanged-on-whatsapp-daily-mark-zuckerberg/"},
+   {"name": "WhatsApp crosses 3 billion monthly users (Nairametrics)", "url": "https://nairametrics.com/2025/05/01/whatsapp-crosses-3-billion-monthly-users-as-meta-doubles-down-on-ai-strategy"}
+  ],
+  "tags": [
+   "how whatsapp works",
+   "whatsapp encryption explained",
+   "end to end encryption",
+   "signal protocol",
+   "what happens when you send a message",
+   "whatsapp ticks meaning",
+   "blue ticks",
+   "how messaging apps work",
+   "encryption explained simply",
+   "tech explained",
+   "how it works"
+  ],
+  "hashtags": ["#techexplained", "#howitworks", "#whatsapp"],
+  "category": "SCIENCE_TECHNOLOGY"
+ },
+ "metricool": {},
+ "shorts": [
+  {"scenes": ["s07"], "headline": "Every WhatsApp message gets a new key", "cta": "Full video on our channel"},
+  {"scenes": ["s08"], "headline": "What WhatsApp ticks really mean", "cta": "Full video on our channel"},
+  {"scenes": ["s09"], "headline": "How WhatsApp sends a photo it can't see", "cta": "Full video on our channel"}
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "kind": "stat",
+   "chapter": "The question",
+   "chapterTitle": "Intro: one tap, one tick",
+   "badge": "WhatsApp messages sent every day",
+   "numberValue": 100,
+   "unit": "billion",
+   "sub": "about 100 billion a day, by Mark Zuckerberg's own count",
+   "big": {"at": "billion"},
+   "chips": [
+    {"text": "Locked before it leaves", "at": "locked"},
+    {"text": "Server can't read it", "at": "cannot"},
+    {"text": "New key every time", "at": "key"}
+   ],
+   "broll": ["144", "1711"],
+   "text": "You type a message, tap send, and a little grey tick appears almost instantly. It feels like nothing. But WhatsApp handles around one hundred billion messages every single day, and every one of them goes through the same hidden routine. Before your message even leaves your phone, it is locked. It travels to WhatsApp's servers, but the server cannot read it. And the key that locked it is used for that one message only, then thrown away. By the end of this video, you will know exactly what happens in the second after you press send, what the ticks really mean, and why even WhatsApp cannot open your chats."
+  },
+  {
+   "id": "s02",
+   "kind": "steps",
+   "chapter": "A simple analogy",
+   "chapterTitle": "Open padlocks at the post office",
+   "items": [
+    {"text": "Your friend leaves open padlocks at the post office", "at": "padlocks"},
+    {"text": "You lock your letter in a box with one", "at": "box"},
+    {"text": "Only your friend has the key", "at": "only"}
+   ],
+   "footer": {"text": "The post office carries a box", "highlight": "it can't open", "tone": "accent", "at": "carries"},
+   "broll": ["1818", "46638"],
+   "text": "Here is a simple way to picture it. Imagine your friend goes to the post office and leaves a pile of open padlocks there. Anyone can take one and snap it shut, but only your friend has the key that opens them. When you want to send a private letter, you pick up one of those padlocks, put your letter in a box, and lock it. Now the post office carries the box to your friend. The postman can see the box, who sent it and where it is going, but he cannot open it. Only your friend can. WhatsApp works in a very similar way, except the padlocks and keys are made of maths, and the whole thing happens in a fraction of a second."
+  },
+  {
+   "id": "s03",
+   "kind": "rows",
+   "chapter": "The journey",
+   "chapterTitle": "The four stops of a message",
+   "items": [
+    {"name": "Your phone", "desc": "Locks the message before it leaves", "at": "phone"},
+    {"name": "Secure tunnel", "desc": "A second layer of encryption to the server", "at": "tunnel"},
+    {"name": "WhatsApp server", "desc": "Passes on a box it cannot open", "at": "server"},
+    {"name": "Friend's phone", "desc": "The only place it gets unlocked", "at": "unlocked"}
+   ],
+   "footer": {"text": "Locked at one end,", "highlight": "opened at the other", "tone": "accent", "at": "end"},
+   "broll": ["47050", "4915"],
+   "text": "So let us follow one message on its journey. It has four stops. First, your phone, where the message is locked before it goes anywhere. Second, a secure tunnel. Your phone talks to WhatsApp through its own encrypted connection, so the locked box is wrapped in a second layer of protection while it travels. Third, the WhatsApp server, which works like the post office. It reads the address and passes the box along. And fourth, your friend's phone, the only place where the message is ever unlocked. This is what end to end encryption means. The message is locked at one end and opened at the other, and nothing in the middle can read it."
+  },
+  {
+   "id": "s04",
+   "kind": "steps",
+   "chapter": "Making the keys",
+   "chapterTitle": "What happens when you install WhatsApp",
+   "items": [
+    {"text": "Your phone makes its own key pairs", "at": "pairs"},
+    {"text": "Public halves go to the server", "at": "public"},
+    {"text": "Private halves never leave your phone", "at": "private"},
+    {"text": "A stack of one-time keys waits for senders", "at": "stack"}
+   ],
+   "footer": {"text": "The server only ever sees", "highlight": "the open padlocks", "tone": "accent", "at": "sees"},
+   "broll": ["1711", "23366"],
+   "text": "The padlocks are created long before you send anything. When you install WhatsApp, your phone generates several key pairs. Each pair has two halves. A public half, which works like an open padlock, and a private half, which is the only key that can open it. Your phone keeps a long term identity key, a signed key that is replaced from time to time, and a whole stack of one time keys. It uploads only the public halves to WhatsApp's server. The private halves never leave your phone. So the server only ever sees the open padlocks. It never holds the keys that open them."
+  },
+  {
+   "id": "s05",
+   "kind": "steps",
+   "chapter": "The first message",
+   "chapterTitle": "How two phones agree on a secret",
+   "items": [
+    {"text": "Your phone downloads your friend's public keys", "at": "downloads"},
+    {"text": "It mixes them with a fresh key of its own", "at": "mixes"},
+    {"text": "Four calculations give one shared secret", "at": "four"},
+    {"text": "Works even if your friend is offline", "at": "offline"}
+   ],
+   "footer": {"text": "The secret itself is", "highlight": "never sent", "tone": "good", "at": "never"},
+   "broll": ["46763", "51123"],
+   "text": "Now, the first time you message someone, your phone needs to agree on a secret with theirs. It downloads your friend's public keys from the server, including one of those one time keys, which the server then deletes so it is never used twice. Your phone also creates a fresh key of its own and mixes everything together. It runs four separate calculations and combines them into one shared secret. Your friend's phone can later do the same maths with its private keys and arrive at exactly the same secret. And here is the clever part. The secret itself is never sent across the internet. And because the keys were waiting on the server, this works even if your friend is offline."
+  },
+  {
+   "id": "s06",
+   "kind": "cards",
+   "chapter": "Locking the message",
+   "chapterTitle": "What locks each message",
+   "items": [
+    {"title": "Lock", "value": "32 bytes", "sub": "AES-256 key scrambles the text", "at": "scrambles"},
+    {"title": "Seal", "value": "32 bytes", "sub": "HMAC key proves nothing changed", "at": "seal"},
+    {"title": "Starting point", "value": "16 bytes", "sub": "random value for the scrambling", "at": "starting"}
+   ],
+   "chips": [{"text": "80 bytes per message key", "at": "eighty"}],
+   "footer": {"text": "Change one letter and", "highlight": "the seal breaks", "tone": "accent", "at": "breaks"},
+   "broll": ["46638", "47050"],
+   "text": "From that shared secret, your phone creates a message key. It is eighty bytes long, and it has three parts. The first thirty two bytes are an A E S two fifty six key, which scrambles the text so it looks like random noise. The next thirty two bytes are used to create a seal, a kind of digital fingerprint that proves nothing was changed on the way. And the last sixteen bytes are a random starting point for the scrambling. If anyone tried to change even one letter of your locked message while it travelled, the seal breaks, and your friend's phone would simply reject it."
+  },
+  {
+   "id": "s07",
+   "kind": "steps",
+   "chapter": "A new key every time",
+   "chapterTitle": "Why every message gets a new key",
+   "items": [
+    {"text": "Each message key is used once", "at": "once"},
+    {"text": "The next key is made from the last one", "at": "next"},
+    {"text": "Old keys are deleted", "at": "deleted"},
+    {"text": "Each reply adds fresh randomness", "at": "reply"}
+   ],
+   "footer": {"text": "Steal one key and you get", "highlight": "one message, not the chat", "tone": "good", "at": "steal"},
+   "broll": ["144", "1818"],
+   "text": "Here is something most people never realise. Every message you send gets its own brand new key. Each message key is used once. Then your phone runs the old chain through a one way calculation to make the next key, and the old key is deleted. It is like a ratchet that only turns forward. On top of that, every time your friend sends a reply, both phones mix in fresh random keys, so the chain keeps changing direction. Why bother? Because if someone ever managed to steal one key, they would unlock one message, not your whole chat history. Security experts call this forward secrecy."
+  },
+  {
+   "id": "s08",
+   "kind": "rows",
+   "chapter": "The ticks",
+   "chapterTitle": "What the ticks really mean",
+   "items": [
+    {"name": "One grey tick", "desc": "Sent: the server has your locked message", "at": "grey"},
+    {"name": "Two grey ticks", "desc": "Delivered to your friend's phone", "at": "delivered"},
+    {"name": "Two blue ticks", "desc": "Your friend has opened the chat", "at": "blue"}
+   ],
+   "chips": [
+    {"text": "Delivered = deleted from the server", "at": "servers"},
+    {"text": "Not delivered: kept up to 30 days", "at": "thirty"}
+   ],
+   "footer": {"text": "The server is", "highlight": "a waiting room, not an archive", "tone": "accent", "at": "waiting"},
+   "broll": ["51123", "46763"],
+   "text": "Now let us decode the ticks. One grey tick means your message was sent. It has left your phone and reached WhatsApp's server. Two grey ticks mean it was delivered to your friend's phone. And two blue ticks mean your friend has opened the chat and read it. But what happens to the copy on the server? According to WhatsApp's privacy policy, once a message is delivered, it is deleted from their servers. If your friend's phone is switched off, the locked message waits, and WhatsApp keeps trying for up to thirty days. After that, it is deleted. So the server is a waiting room, not an archive."
+  },
+  {
+   "id": "s09",
+   "kind": "steps",
+   "chapter": "Photos and videos",
+   "chapterTitle": "How a photo is sent",
+   "items": [
+    {"text": "Your phone makes a random key for the file", "at": "random"},
+    {"text": "The locked file is uploaded", "at": "uploaded"},
+    {"text": "The key travels inside your message", "at": "inside"},
+    {"text": "Your friend downloads and unlocks it", "at": "unlocks"}
+   ],
+   "footer": {"text": "The server stores a file", "highlight": "it can't see", "tone": "accent", "at": "stores"},
+   "broll": ["1711", "47167"],
+   "text": "Photos and videos are much bigger than text, so they take a slightly different route. When you send a photo, your phone first creates a random key just for that file and locks the photo with it. The locked file is then uploaded to WhatsApp's storage. Next, your phone sends your friend a normal encrypted message containing three things. Where the file is, the key that opens it, and a fingerprint to check it has not been changed. Your friend's phone downloads the locked file and unlocks it. The server stores a file it cannot see, and the key travels inside a message it cannot read."
+  },
+  {
+   "id": "s10",
+   "kind": "cards",
+   "chapter": "Group chats",
+   "chapterTitle": "How group messages work",
+   "items": [
+    {"title": "Sender key", "value": "1", "sub": "shared privately with each member", "at": "shares"},
+    {"title": "Encrypt", "value": "once", "sub": "your phone locks the message one time", "at": "time"},
+    {"title": "Server", "value": "copies", "sub": "delivers it to every member", "at": "copies"}
+   ],
+   "chips": [{"text": "Someone leaves? New keys for everyone", "at": "leaves"}],
+   "footer": {"text": "Faster for you,", "highlight": "still unreadable for the server", "tone": "good", "at": "faster"},
+   "broll": ["4915", "22149"],
+   "text": "What about group chats? Locking the same message separately for two hundred people would drain your battery. So WhatsApp uses a trick called sender keys. The first time you write in a group, your phone creates a special sender key and shares it privately with each member, using the one to one locks we just talked about. After that, your phone locks each group message just one time. The server makes copies and delivers one to every member, and they all unlock it with your sender key. And whenever someone leaves the group, everyone throws away their old keys and starts fresh. It is faster for you, and still unreadable for the server."
+  },
+  {
+   "id": "s11",
+   "kind": "steps",
+   "chapter": "Recap",
+   "chapterTitle": "Recap in three points",
+   "items": [
+    {"text": "Your phone locks the message before it leaves", "at": "locks"},
+    {"text": "The server passes on a box it cannot open", "at": "passes"},
+    {"text": "Every message gets a brand new key", "at": "brand"}
+   ],
+   "footer": {"text": "Sending a message is", "highlight": "a tiny feat of maths", "tone": "accent", "at": "feat"},
+   "broll": ["144", "47050"],
+   "text": "Let us recap in three points. One. When you press send, your phone locks the message using keys that were set up between you and your friend, and the private keys never leave your phones. Two. The locked message travels through a secure tunnel to WhatsApp's server, which passes on a box it cannot open, and deletes it once it is delivered. Three. Every message gets a brand new key, so even if one key was ever stolen, the rest of your chat stays safe. Sending a single message is a tiny feat of maths, repeated billions of times a day."
+  },
+  {
+   "id": "s12",
+   "kind": "outro",
+   "title": "What happens when you press send",
+   "accent": [3, 4],
+   "next": "How a Computer Chip Is Made",
+   "chapterTitle": "Your turn",
+   "broll": ["1818", "23366"],
+   "text": "So the next time you see that little grey tick, remember the padlocks, the four calculations, and the key that was used once and thrown away, all in less time than it takes to blink. Now I want to hear from you. Did you know the server deletes your message once it is delivered? Tell me in the comments. If you enjoyed this, subscribe to Tech Explained. In the next video, we will go inside a factory and see how a computer chip is made."
+  }
+ ]
+}

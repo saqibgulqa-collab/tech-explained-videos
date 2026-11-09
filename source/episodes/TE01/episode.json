@@ -1,0 +1,564 @@
+{
+ "id": "TE01",
+ "num": 1,
+ "status": "draft",
+ "title": "How the Internet Travels Under the Ocean",
+ "pillar": "Inside big tech",
+ "music": "music_759.mp3",
+ "scenes": [
+  {
+   "id": "s01",
+   "kind": "stat",
+   "chapter": "The hidden internet",
+   "chapterTitle": "Intro: the cable under your video",
+   "badge": "Cable on the seafloor",
+   "numberValue": 1.7,
+   "unit": "million km",
+   "sub": "of internet cable lies on the ocean floor",
+   "big": {
+    "at": "million"
+   },
+   "chips": [
+    {
+     "text": "Thinner than a garden hose",
+     "at": "garden"
+    },
+    {
+     "text": "Made of glass",
+     "at": "glass"
+    },
+    {
+     "text": "Carries light",
+     "at": "light",
+     "nth": 1
+    }
+   ],
+   "broll": [
+    "32173",
+    "35659"
+   ],
+   "text": "Right now, there is a good chance this video crossed an ocean to reach you. Not through space. Not through the air. Through the bottom of the sea. Lying on the ocean floor is about one point seven million kilometres of cable. That is enough to wrap around the Earth more than forty times. In the deep ocean, these cables are only about as thick as a garden hose. Inside them are strands of glass, and through that glass travels light. Light that carries your messages, your video calls, and this video. So how does a thin glass thread lying in the dark, kilometres under the sea, carry the internet between continents? Let's open one up and find out."
+  },
+  {
+   "id": "s02",
+   "kind": "cards",
+   "chapter": "How big is the network?",
+   "chapterTitle": "How big the network really is",
+   "items": [
+    {
+     "title": "In service",
+     "value": "607",
+     "sub": "cable systems",
+     "at": "six"
+    },
+    {
+     "title": "Planned",
+     "value": "102",
+     "sub": "more on the way",
+     "at": "hundred",
+     "nth": 1
+    },
+    {
+     "title": "Intercontinental data",
+     "value": "~99%",
+     "sub": "travels by cable",
+     "at": "ninety"
+    }
+   ],
+   "chips": [
+    {
+     "text": "Data: TeleGeography, 2026",
+     "at": "according"
+    }
+   ],
+   "footer": {
+    "text": "Satellites?",
+    "highlight": "A tiny share",
+    "tone": "accent",
+    "at": "satellites"
+   },
+   "broll": [
+    "41541",
+    "23282"
+   ],
+   "text": "First, how big is this hidden network? According to TeleGeography, a research firm that maps every one of these cables, there are six hundred and seven cable systems in service as of twenty twenty six, with another one hundred and two planned. Many of them branch out to several countries along the way. And here is the surprising part. When people say the internet is wireless, they are mostly talking about the last few metres, from your router or the nearest tower to your phone. Between continents, the industry estimate is that around ninety nine percent of data travels through these undersea cables. Satellites carry only a tiny share. Which raises an obvious question."
+  },
+  {
+   "id": "s03",
+   "kind": "steps",
+   "chapter": "Why not satellites?",
+   "chapterTitle": "Why not just use satellites?",
+   "items": [
+    {
+     "text": "Far more capacity per cable",
+     "at": "capacity"
+    },
+    {
+     "text": "Shorter path, less delay",
+     "at": "delay"
+    },
+    {
+     "text": "Lower cost per bit sent",
+     "at": "cost"
+    }
+   ],
+   "footer": {
+    "text": "Satellites shine where",
+    "highlight": "cables can't reach",
+    "tone": "accent",
+    "at": "remote"
+   },
+   "broll": [
+    "34971",
+    "7891"
+   ],
+   "text": "Why not just use satellites? Three reasons. Capacity first. A single modern cable carries a huge amount of data, enough for millions of video streams at the same time, far more than a satellite link of the same cost. Second, delay. A signal sent through a cable follows the shape of the planet, while a traditional satellite signal has to climb thousands of kilometres up and come back down. And third, cost. Once a cable is laid, moving each extra bit of data through it is very cheap. Satellites are still brilliant for ships, planes, and remote places that no cable reaches. But for moving the bulk of the world's data between continents, cables win."
+  },
+  {
+   "id": "s04",
+   "kind": "rows",
+   "chapter": "Inside the cable",
+   "chapterTitle": "What's inside an undersea cable",
+   "items": [
+    {
+     "name": "Glass fibers",
+     "desc": "Hair-thin strands that carry the light",
+     "at": "center"
+    },
+    {
+     "name": "Copper layer",
+     "desc": "Carries electricity to power the line",
+     "at": "copper"
+    },
+    {
+     "name": "Steel wires",
+     "desc": "Give strength when laid and lifted",
+     "at": "steel"
+    },
+    {
+     "name": "Plastic jacket",
+     "desc": "Insulates and seals out seawater",
+     "at": "plastic"
+    },
+    {
+     "name": "Armour",
+     "desc": "Extra steel near the shore, up to ~50 mm",
+     "at": "near"
+    }
+   ],
+   "footer": {
+    "text": "Deep-sea cable:",
+    "highlight": "17–20 mm wide",
+    "tone": "accent",
+    "at": "twenty"
+   },
+   "broll": [
+    "47050",
+    "23210"
+   ],
+   "text": "So what is actually inside one? At the center are the optical fibers, strands of glass about as thin as a human hair. They are the part that carries your data. Around them is a copper layer. That might sound strange for a light cable, but the copper carries electricity, and you will see why in a moment. Then come steel wires that give the cable strength, because it has to survive being lowered kilometres down and sometimes pulled back up. A plastic jacket seals everything from the seawater. In the deep ocean, that is it. The whole cable is about seventeen to twenty millimetres wide. But near the shore, where ships and fishing nets are, cables get extra steel armour, up to around fifty millimetres thick, and are often buried in the seabed."
+  },
+  {
+   "id": "s05",
+   "kind": "steps",
+   "chapter": "Light carries the data",
+   "chapterTitle": "How light carries your data",
+   "items": [
+    {
+     "text": "A laser flashes on and off: 1s and 0s",
+     "at": "laser"
+    },
+    {
+     "text": "Light bounces along inside the glass",
+     "at": "bounces"
+    },
+    {
+     "text": "Many colors share one fiber at once",
+     "at": "colors"
+    }
+   ],
+   "footer": {
+    "text": "Speed in glass:",
+    "highlight": "~200,000 km per second",
+    "tone": "accent",
+    "at": "two"
+   },
+   "broll": [
+    "47050",
+    "7866"
+   ],
+   "text": "Now, how does light carry data? Think of a flashlight in a long tube lined with mirrors. Point it in one end, and the light keeps bouncing off the walls until it comes out the other end. A glass fiber works in a similar way. Its core is wrapped in a layer of glass that reflects the light back inward, so it stays trapped inside and travels along the fiber. At the start of the cable, a laser flashes on and off billions of times every second. On means one, off means zero. That is your data, written in light. And modern systems do something clever. They send many different colors of light through the same fiber at once, each color carrying its own stream. Inside glass, that light moves at roughly two hundred thousand kilometres every second."
+  },
+  {
+   "id": "s06",
+   "kind": "cards",
+   "chapter": "Boosting the signal",
+   "chapterTitle": "Repeaters: boosting light under the sea",
+   "items": [
+    {
+     "title": "Repeater spacing",
+     "value": "~50 km",
+     "sub": "on early fiber cables like TAT-8",
+     "at": "fifty"
+    },
+    {
+     "title": "Power from shore",
+     "value": "10–15 kV",
+     "sub": "sent down the copper",
+     "at": "ten"
+    },
+    {
+     "title": "Light booster",
+     "value": "Erbium",
+     "sub": "amplifies light directly",
+     "at": "erbium"
+    }
+   ],
+   "chips": [
+    {
+     "text": "No electronics needed to read the data",
+     "at": "without"
+    }
+   ],
+   "footer": {
+    "text": "That's why",
+    "highlight": "the copper is there",
+    "tone": "accent",
+    "at": "copper"
+   },
+   "broll": [
+    "20822",
+    "35659"
+   ],
+   "text": "But even in perfect glass, light slowly fades. Over thousands of kilometres it would simply disappear. So along the cable sit repeaters, sealed boxes that boost the signal. On TAT eight, one of the first fiber optic cables across the Atlantic, they were placed about every fifty kilometres. Inside each repeater is a short piece of fiber mixed with a rare element called erbium. A small pump laser energizes it, and when the weak signal passes through, the light gets stronger, without having to turn it back into electricity or read the data. And that is where the copper comes in. Power stations on shore push a high voltage, typically ten to fifteen thousand volts, down the copper layer to run every repeater along the way."
+  },
+  {
+   "id": "s07",
+   "kind": "stat",
+   "chapter": "How fast is it?",
+   "chapterTitle": "How fast data crosses the Atlantic",
+   "badge": "Virginia to Spain on MAREA",
+   "numberValue": 33,
+   "unit": "ms",
+   "sub": "one-way trip for light across 6,600 km",
+   "big": {
+    "at": "thirty"
+   },
+   "chips": [
+    {
+     "text": "160 Tbps at launch",
+     "at": "sixty"
+    },
+    {
+     "text": "Built in about a year",
+     "at": "year"
+    }
+   ],
+   "broll": [
+    "11889",
+    "4915"
+   ],
+   "text": "So how fast is it really? Take a cable called MAREA. It runs about six thousand six hundred kilometres under the Atlantic, from Virginia Beach in the United States to Bilbao in Spain. At around two hundred thousand kilometres per second, light needs only about thirty three milliseconds to make that one way trip. That is several times faster than the blink of an eye. When MAREA was finished, it was described as able to carry up to one hundred and sixty terabits per second, and its physical construction took only a little over a year. Every time you load a website hosted on another continent, part of your waiting time is literally light travelling through a cable like this one."
+  },
+  {
+   "id": "s08",
+   "kind": "rows",
+   "chapter": "Who owns the cables?",
+   "chapterTitle": "Who owns the cables",
+   "items": [
+    {
+     "name": "MAREA",
+     "desc": "Microsoft, Meta and Telxius · US to Spain",
+     "at": "marea"
+    },
+    {
+     "name": "2Africa",
+     "desc": "Meta, MTN, Vodafone, Orange · ring around Africa",
+     "at": "africa"
+    },
+    {
+     "name": "JUPITER",
+     "desc": "Google and partners · US, Japan, Philippines",
+     "at": "jupiter"
+    }
+   ],
+   "footer": {
+    "text": "Big tech now builds",
+    "highlight": "its own highways",
+    "tone": "accent",
+    "at": "highways"
+   },
+   "broll": [
+    "23282",
+    "13218"
+   ],
+   "text": "Who owns these cables? For most of history, the answer was telephone companies. Today, more and more are built or co owned by the big tech companies you use every day. MAREA was built by Microsoft and Meta, together with a Spanish infrastructure company called Telxius. The 2Africa cable, designed to circle the African continent, includes Meta along with telecom companies like MTN, Vodafone and Orange. And the JUPITER cable, linking the United States, Japan and the Philippines, involves Google among its partners. The reason is simple. These companies move so much video, cloud and app data between their data centers that it makes sense to build their own highways under the sea."
+  },
+  {
+   "id": "s09",
+   "kind": "compare",
+   "chapter": "What breaks them?",
+   "chapterTitle": "What actually breaks undersea cables",
+   "cards": [
+    {
+     "title": "Fishing gear & anchors",
+     "sub": "the real danger",
+     "at": "fishing"
+    },
+    {
+     "title": "Shark bites",
+     "sub": "the famous myth",
+     "at": "sharks"
+    }
+   ],
+   "big": {
+    "value": "150–200",
+    "sub": "cable incidents every year",
+    "at": "hundred"
+   },
+   "bars": [
+    {
+     "label": "Fishing & anchors",
+     "value": "~3 in 4",
+     "fill": 0.75,
+     "tone": "bad",
+     "at": "three"
+    },
+    {
+     "label": "Shark bites, 2007–2014",
+     "value": "0 faults",
+     "fill": 0.02,
+     "tone": "good",
+     "at": "zero"
+    }
+   ],
+   "footer": {
+    "text": "Most damage happens",
+    "highlight": "in shallow water",
+    "tone": "bad",
+    "at": "shallow"
+   },
+   "broll": [
+    "35454",
+    "7055"
+   ],
+   "text": "And these cables do break. A lot. Around one hundred and fifty to two hundred cable incidents happen every year. You may have seen videos of sharks biting cables, and that story is famous online. But data from the International Cable Protection Committee recorded zero cable faults caused by fish bites, sharks included, between two thousand seven and two thousand fourteen. The real danger is us. Fishing gear and ship anchors cause about three in every four incidents. That is why most damage happens in shallow water near the coast, and why those sections get buried and armoured. In October twenty twenty five, two cables were cut in the Red Sea, slowing the internet in countries including the UAE, India and Pakistan."
+  },
+  {
+   "id": "s10",
+   "kind": "steps",
+   "chapter": "How a cable is repaired",
+   "chapterTitle": "How a broken cable gets fixed",
+   "items": [
+    {
+     "text": "Find the break with a pulse of light",
+     "at": "pulse"
+    },
+    {
+     "text": "A repair ship sails out, up to 10 days away",
+     "at": "ship",
+     "nth": 0
+    },
+    {
+     "text": "Lift the cable with a robot or grapnel hook",
+     "at": "hook"
+    },
+    {
+     "text": "Splice in new cable on deck, lower it back",
+     "at": "splice"
+    }
+   ],
+   "footer": {
+    "text": "Meanwhile, traffic",
+    "highlight": "reroutes to other cables",
+    "tone": "good",
+    "at": "meanwhile"
+   },
+   "broll": [
+    "11889",
+    "4116"
+   ],
+   "text": "So how do you fix a cable at the bottom of the sea? First, engineers find the break by sending a pulse down the cable and timing how long it takes to come back. Then a specialised repair ship sets out, and reaching the fault can take up to ten days. In waters around two thousand metres deep, a remote controlled robot can find the cable, cut it and lift it. In the deepest waters, around six thousand metres, the crew drags a hook called a grapnel along the seabed until it catches the cable. On deck, technicians splice in a new section, test it, and lower it back down. Meanwhile, traffic moves onto other cables, which is why the internet rarely goes dark when one cable breaks."
+  },
+  {
+   "id": "s11",
+   "kind": "cards",
+   "chapter": "Then vs now",
+   "chapterTitle": "From 1858 to today",
+   "items": [
+    {
+     "title": "1858 telegraph cable",
+     "value": "~16 hours",
+     "sub": "to send 98 words",
+     "at": "sixteen"
+    },
+    {
+     "title": "Today's fiber",
+     "value": "~33 ms",
+     "sub": "light across the Atlantic",
+     "at": "fraction"
+    }
+   ],
+   "chips": [
+    {
+     "text": "1858: failed within weeks",
+     "at": "weeks"
+    },
+    {
+     "text": "1866: first lasting cable",
+     "at": "sixty"
+    }
+   ],
+   "footer": {
+    "text": "Same idea:",
+    "highlight": "a wire across the ocean",
+    "tone": "accent",
+    "at": "same"
+   },
+   "broll": [
+    "34971",
+    "51506"
+   ],
+   "text": "This idea is older than you might think. In eighteen fifty eight, engineers finished the first telegraph cable across the Atlantic, linking Ireland and Newfoundland. Queen Victoria's ninety eight word greeting took almost sixteen hours to send. And within a few weeks, the cable failed completely. One engineer had pushed very high voltages through it, which an investigation later blamed for the damage. The first lasting transatlantic cable arrived in eighteen sixty six. From sixteen hours for one short message, to light that crosses the same ocean in a fraction of a second, carrying video for millions of people. The same idea, a wire across the ocean, just with glass and light instead of copper and pulses of current."
+  },
+  {
+   "id": "s12",
+   "kind": "outro",
+   "title": "Internet under the sea",
+   "accent": [
+    2,
+    3
+   ],
+   "next": "How GPS Knows Exactly Where You Are",
+   "chapterTitle": "Your turn",
+   "broll": [
+    "32173",
+    "4908"
+   ],
+   "text": "So the next time you send a message to someone on the other side of the world, picture it as a flash of light racing through a glass thread on the ocean floor. Now I want to hear from you. Did you know the internet mostly travels under the sea? Tell me in the comments. If you enjoyed this, subscribe to Tech Explained. In the next video, we will find out how GPS knows exactly where you are."
+  }
+ ],
+ "thumbnail": {
+  "a": {
+   "big": "UNDER",
+   "line2": "THE OCEAN",
+   "tag": "How the internet crosses the sea",
+   "chips": [
+    [
+     "Glass fiber",
+     true
+    ],
+    [
+     "Light pulses",
+     true
+    ],
+    [
+     "Repeaters",
+     true
+    ],
+    [
+     "Satellites",
+     false
+    ],
+    [
+     "Sharks",
+     false
+    ]
+   ]
+  },
+  "b": {
+   "kicker": "THE HIDDEN INTERNET",
+   "from": "16 HRS",
+   "to": "33 ms",
+   "line2": "ACROSS THE OCEAN",
+   "tag": "1858 vs today"
+  }
+ },
+ "youtube": {
+  "title": "How the Internet Travels Under the Ocean (Explained Simply)",
+  "summary": "About 99% of data between continents travels through cables on the ocean floor, not satellites. In this video we open up an undersea internet cable: what is inside it, how light carries your data, how repeaters boost the signal every few dozen kilometres, who owns the cables, what really breaks them (spoiler: not sharks), and how a repair ship fixes a cable 6,000 metres down.",
+  "details": "Key figures (checked November 2026):\n- 607 cable systems in service and 102 planned (TeleGeography, 2026)\n- About 1.7 million km of subsea cable; 150-200 incidents a year, about three quarters from fishing gear and anchors (International Cable Protection Committee via The National, Nov 2025)\n- Deep-sea cables are 17-20 mm wide; armoured cables up to ~50 mm (ICPC)\n- MAREA: 6,600 km, Virginia Beach to Bilbao, up to 160 Tbps at launch\n- 1858 cable: Queen Victoria's 98-word message took almost 16 hours (IEEE Spectrum)",
+  "sources": [
+   {
+    "name": "How many submarine cables are there? (TeleGeography, Sep 2026)",
+    "url": "https://resources.telegeography.com/how-many-submarine-cables-are-there-anyway"
+   },
+   {
+    "name": "Do submarine cables carry 99% of intercontinental traffic? (TeleGeography)",
+    "url": "https://resources.telegeography.com/2023-mythbusting-part-3"
+   },
+   {
+    "name": "What happens when submarine cables break (TeleGeography)",
+    "url": "https://resources.telegeography.com/what-happens-when-submarine-cables-break"
+   },
+   {
+    "name": "Submarine cables guide (ICPC)",
+    "url": "https://www.cablejoints.co.uk/upload/Submarine_Cables___ISCPC_Guide.pdf"
+   },
+   {
+    "name": "How undersea cables are repaired (The National, Nov 2025)",
+    "url": "https://www.thenationalnews.com/news/uae/2025/11/14/undersea-cables-subsea-internet-telecoms-uae-red-sea"
+   },
+   {
+    "name": "Optical repeaters for submarine cables (Hackaday)",
+    "url": "https://hackaday.com/2023/08/08/under-the-sea-optical-repeaters-for-submarine-cables"
+   },
+   {
+    "name": "MAREA cable completed (The Next Web)",
+    "url": "https://thenextweb.com/news/microsoft-and-facebook-just-laid-a-160tbps-undersea-cable-17000-feet-deep"
+   },
+   {
+    "name": "Why subsea cable is king (RCR Wireless)",
+    "url": "https://www.rcrwireless.com/20251212/fundamentals/subsea-cable-king"
+   },
+   {
+    "name": "The first transatlantic telegraph cable (IEEE Spectrum)",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure"
+   }
+  ],
+  "tags": [
+   "undersea internet cables",
+   "submarine cables",
+   "how the internet works",
+   "fiber optic cable",
+   "how does the internet cross the ocean",
+   "undersea cable explained",
+   "internet infrastructure",
+   "subsea cable",
+   "tech explained",
+   "how it works",
+   "MAREA cable",
+   "fiber optics explained"
+  ],
+  "hashtags": [
+   "#techexplained",
+   "#howitworks",
+   "#internet"
+  ],
+  "category": "SCIENCE_TECHNOLOGY"
+ },
+ "metricool": {},
+ "shorts": [
+  {
+   "scenes": [
+    "s09"
+   ],
+   "headline": "Sharks don't break the internet. This does.",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s05"
+   ],
+   "headline": "Your data is literally a flash of light",
+   "cta": "Full video on our channel"
+  },
+  {
+   "scenes": [
+    "s11"
+   ],
+   "headline": "1858: 16 hours to send 98 words",
+   "cta": "Full video on our channel"
+  }
+ ]
+}
