@@ -1,0 +1,45 @@
+{
+ "episode": "TE01",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/thumb_a.png",
+  "title": "How the Internet Travels Under the Ocean (Explained Simply)",
+  "description": "About 99% of data between continents travels through cables on the ocean floor, not satellites. In this video we open up an undersea internet cable: what is inside it, how light carries your data, how repeaters boost the signal every few dozen kilometres, who owns the cables, what really breaks them (spoiler: not sharks), and how a repair ship fixes a cable 6,000 metres down.\n\nChapters\n00:00 Intro: the cable under your video\n00:46 How big the network really is\n01:30 Why not just use satellites?\n02:14 What's inside an undersea cable\n03:06 How light carries your data\n03:59 Repeaters: boosting light under the sea\n04:48 How fast data crosses the Atlantic\n05:35 Who owns the cables\n06:18 What actually breaks undersea cables\n07:05 How a broken cable gets fixed\n07:55 From 1858 to today\n08:41 Your turn\n\nKey figures (checked November 2026):\n- 607 cable systems in service and 102 planned (TeleGeography, 2026)\n- About 1.7 million km of subsea cable; 150-200 incidents a year, about three quarters from fishing gear and anchors (International Cable Protection Committee via The National, Nov 2025)\n- Deep-sea cables are 17-20 mm wide; armoured cables up to ~50 mm (ICPC)\n- MAREA: 6,600 km, Virginia Beach to Bilbao, up to 160 Tbps at launch\n- 1858 cable: Queen Victoria's 98-word message took almost 16 hours (IEEE Spectrum)\n\nSources\n- How many submarine cables are there? (TeleGeography, Sep 2026): https://resources.telegeography.com/how-many-submarine-cables-are-there-anyway\n- Do submarine cables carry 99% of intercontinental traffic? (TeleGeography): https://resources.telegeography.com/2023-mythbusting-part-3\n- What happens when submarine cables break (TeleGeography): https://resources.telegeography.com/what-happens-when-submarine-cables-break\n- Submarine cables guide (ICPC): https://www.cablejoints.co.uk/upload/Submarine_Cables___ISCPC_Guide.pdf\n- How undersea cables are repaired (The National, Nov 2025): https://www.thenationalnews.com/news/uae/2025/11/14/undersea-cables-subsea-internet-telecoms-uae-red-sea\n- Optical repeaters for submarine cables (Hackaday): https://hackaday.com/2023/08/08/under-the-sea-optical-repeaters-for-submarine-cables\n- MAREA cable completed (The Next Web): https://thenextweb.com/news/microsoft-and-facebook-just-laid-a-160tbps-undersea-cable-17000-feet-deep\n- Why subsea cable is king (RCR Wireless): https://www.rcrwireless.com/20251212/fundamentals/subsea-cable-king\n- The first transatlantic telegraph cable (IEEE Spectrum): https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #internet",
+  "tags": [
+   "undersea internet cables",
+   "submarine cables",
+   "how the internet works",
+   "fiber optic cable",
+   "how does the internet cross the ocean",
+   "undersea cable explained",
+   "internet infrastructure",
+   "subsea cable",
+   "tech explained",
+   "how it works",
+   "MAREA cable",
+   "fiber optics explained"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "11 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short1.mp4",
+   "title": "Sharks don't break the internet. This does. #shorts",
+   "description": "Sharks don't break the internet. This does.. Full video on our channel: \"How the Internet Travels Under the Ocean (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "11 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short2.mp4",
+   "title": "Your data is literally a flash of light #shorts",
+   "description": "Your data is literally a flash of light. Full video on our channel: \"How the Internet Travels Under the Ocean (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "11 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE01/TE01_short3.mp4",
+   "title": "1858: 16 hours to send 98 words #shorts",
+   "description": "1858: 16 hours to send 98 words. Full video on our channel: \"How the Internet Travels Under the Ocean (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "11 Nov 2026 21:00"
+  }
+ ]
+}
