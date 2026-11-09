@@ -1,0 +1,44 @@
+{
+ "episode": "TE04",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/thumb_a.png",
+  "title": "What Really Happens When You Press Send on WhatsApp (Explained Simply)",
+  "description": "You tap send and a grey tick appears in a blink. In that moment your phone locks the message with a brand new key, sends it through an encrypted tunnel to WhatsApp's servers, and the server passes on a box it cannot open. In this video we follow one message: the keys your phone makes when you install WhatsApp, how two phones agree on a secret even when one is offline, why every message gets a new key, what the grey and blue ticks really mean, how photos and group chats are handled, and how long the server keeps your message.\n\nChapters\n00:00 Intro: one tap, one tick\n00:42 Open padlocks at the post office\n01:30 The four stops of a message\n02:14 What happens when you install WhatsApp\n02:55 How two phones agree on a secret\n03:42 What locks each message\n04:24 Why every message gets a new key\n05:05 What the ticks really mean\n05:47 How a photo is sent\n06:28 How group messages work\n07:12 Recap in three points\n07:51 Your turn\n\nKey figures (checked November 2026):\n- About 100 billion messages a day (Mark Zuckerberg, Facebook Q3 2020 earnings call)\n- More than 3 billion monthly users (Mark Zuckerberg, Meta Q1 2025 earnings call)\n- Keys: identity key, signed pre key and one-time pre keys (Curve25519); only public halves are uploaded (WhatsApp Security Whitepaper)\n- Session setup combines four key exchanges into a master secret; works while the recipient is offline\n- Each message key is 80 bytes: 32-byte AES-256 key, 32-byte HMAC-SHA256 key, 16-byte IV; keys ratchet forward after every message\n- Media: encrypted with a random key, uploaded as an encrypted blob; the key travels inside the message\n- Groups: sender keys; message encrypted once, server fans it out\n- Delivered messages are deleted from the servers; undelivered ones are kept encrypted for up to 30 days (WhatsApp Privacy Policy)\n\nSources\n- WhatsApp Security Whitepaper (Encryption Overview): https://s3.documentcloud.org/documents/2786495/WhatsApp-Security-Whitepaper-April-4-2016.pdf\n- WhatsApp Privacy Policy: how messages are stored: https://www.whatsapp.com/legal/privacy-policy?lang=en\n- What does one tick mean on WhatsApp (TechFinitive): https://www.techfinitive.com/explainers/what-does-one-tick-mean-on-whatsapp/\n- 100 billion messages a day, Zuckerberg (Kahawatungu): https://kahawatungu.com/at-least-100-billion-messages-are-exchanged-on-whatsapp-daily-mark-zuckerberg/\n- WhatsApp crosses 3 billion monthly users (Nairametrics): https://nairametrics.com/2025/05/01/whatsapp-crosses-3-billion-monthly-users-as-meta-doubles-down-on-ai-strategy\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #whatsapp",
+  "tags": [
+   "how whatsapp works",
+   "whatsapp encryption explained",
+   "end to end encryption",
+   "signal protocol",
+   "what happens when you send a message",
+   "whatsapp ticks meaning",
+   "blue ticks",
+   "how messaging apps work",
+   "encryption explained simply",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "14 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short1.mp4",
+   "title": "Every WhatsApp message gets a new key #shorts",
+   "description": "Every WhatsApp message gets a new key. Full video on our channel: \"What Really Happens When You Press Send on WhatsApp (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "14 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short2.mp4",
+   "title": "What WhatsApp ticks really mean #shorts",
+   "description": "What WhatsApp ticks really mean. Full video on our channel: \"What Really Happens When You Press Send on WhatsApp (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "14 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE04/TE04_short3.mp4",
+   "title": "How WhatsApp sends a photo it can't see #shorts",
+   "description": "How WhatsApp sends a photo it can't see. Full video on our channel: \"What Really Happens When You Press Send on WhatsApp (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "14 Nov 2026 21:00"
+  }
+ ]
+}
