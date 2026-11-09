@@ -1,0 +1,45 @@
+{
+ "episode": "TE03",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/thumb_a.png",
+  "title": "How a Smartphone Camera Actually Works (Explained Simply)",
+  "description": "Your phone camera's pixels can't see colour, and it may start shooting before you even tap. In this video we follow light through a phone camera: the lens, the image sensor, how a pixel turns light into a number, the Bayer colour filter and demosaicing, why tiny pixels need pixel binning, and how HDR and night mode stack many frames into one clean photo.\n\nChapters\n00:00 Intro: what happens when you tap\n00:45 Buckets in the rain\n01:31 The parts of a phone camera\n02:14 How a pixel turns light into a number\n03:02 The Bayer filter: how a sensor sees colour\n03:49 Demosaicing: guessing the missing colours\n04:35 How small are phone pixels?\n05:22 Pixel binning: many small pixels act as one\n06:06 Your phone shoots before you press\n06:54 How night mode sees in the dark\n07:41 Recap in three points\n08:17 Your turn\n\nKey figures (checked November 2026):\n- Bayer filter: 50% green, 25% red, 25% blue; Bryce E. Bayer, Eastman Kodak, US patent 3,971,065 (1976)\n- Demosaicing estimates about two thirds of the colour data\n- Samsung ISOCELL HP3: 200 MP, 0.56 um pixels, 1/1.4-inch; 4-to-1 binning = 50 MP (1.12 um), 16-to-1 = 12.5 MP (2.24 um) (PetaPixel)\n- Google HDR+ buffers the latest 9 or 15 frames; Night Sight (2018) captures 6-15 frames, up to 1 s each when still, 1/15 s or less handheld (SlashGear on Google's research)\n\nSources\n- Bayer filter (chemeurope encyclopedia): https://www.chemeurope.com/en/encyclopedia/Bayer_filter\n- Bayer filter explained (PhoneArena): https://www.phonearena.com/news/Bayer-filter-explained-or-how-your-phones-camera-sees-color_id66281\n- Samsung ISOCELL HP3 has the world's smallest pixels (PetaPixel): https://www.petapixel.com/2022/06/23/samsungs-new-200mp-hm3-camera-sensor-has-worlds-smallest-pixels\n- How does Google Night Sight work (SlashGear): https://www.slashgear.com/google-night-sight-camera-technology-explained-info-release-history-14553723\n- Night Sight: Seeing in the dark on Pixel phones (Google Research): https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/\n- What is computational photography (Android Central): https://www.androidcentral.com/phones/computational-photography\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #howitworks #camera",
+  "tags": [
+   "how smartphone camera works",
+   "phone camera explained",
+   "image sensor explained",
+   "bayer filter",
+   "pixel binning",
+   "computational photography",
+   "night mode explained",
+   "how does a camera work",
+   "megapixels explained",
+   "demosaicing",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "13 Nov 2026 01:00"
+ },
+ "shorts": [
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short1.mp4",
+   "title": "Your phone takes photos before you tap #shorts",
+   "description": "Your phone takes photos before you tap. Full video on our channel: \"How a Smartphone Camera Actually Works (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "13 Nov 2026 13:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short2.mp4",
+   "title": "Your camera's pixels can't see colour #shorts",
+   "description": "Your camera's pixels can't see colour. Full video on our channel: \"How a Smartphone Camera Actually Works (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "13 Nov 2026 17:00"
+  },
+  {
+   "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE03/TE03_short3.mp4",
+   "title": "How night mode sees in the dark #shorts",
+   "description": "How night mode sees in the dark. Full video on our channel: \"How a Smartphone Camera Actually Works (Explained Simply)\"\n\n#shorts #techexplained #howitworks",
+   "schedule_pkt": "13 Nov 2026 21:00"
+  }
+ ]
+}
