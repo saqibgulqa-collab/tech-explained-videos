@@ -88,9 +88,51 @@ Rule when studying them: steal the **technique** (cutaway, colour-coding, label 
 
 ---
 
-## 5) PER-EPISODE PACKAGE CHECKLIST (Claude delivers all of this)
+## 5) TOPIC SELECTION — choose topics the reference channels already proved
 
-- [ ] Long video (~8 min) built with the 5-step workflow in §1
+The owner wants the channel to grow on schedule, not on luck. So do not invent topics from thin air: **build every episode's topic from the proven hits of the reference channels in §4** — topics their audiences already rewarded with millions of views — then make the video fully our own.
+
+Proven demand (verified Nov 2026, approximate views):
+- **Branch Education:** How are Microchips Made? (~11.7M), How does Bluetooth Work? (~10.1M), How does Starlink Work? (~9.8M), How do Graphics Cards Work? (~7.6M), How do Video Game Graphics Work? (~5.4M), How do Electron Microscopes Work? (~4.7M), How does Computer Hardware Work? (~3.9M)
+- **Jared Owen:** famous machines cut open — a tank (~64M on one analysis), spacesuits, Crew Dragon, the ISS, escalators, automatic transmissions, car engines
+- **Lesics:** the differential, manual vs automatic transmissions, EV motors and Tesla's powertrain
+
+Selection filters — a topic must pass ALL five before it is scripted:
+1. **Proven:** a reference channel's version (or close sibling) cleared ~1M views.
+2. **Recognisable object, hidden inside:** something the viewer owns or sees daily (phone, router, microwave, lift, washing machine, ATM, earbuds) whose working they have never seen — the cutaway is the video.
+3. **Evergreen:** no news, no trend, no date — it must still get suggested three years from now (Jared Owen's whole channel runs on this).
+4. **Not already covered by us:** TE01–TE10 are done (ocean cables, GPS, smartphone camera, WhatsApp, how chips are made, planes/Wi-Fi, data centres, touchscreens, Starlink). A repeat topic is allowed only with a clearly different, deeper angle — when in doubt, pick an uncovered one (e.g. Bluetooth, NFC tap-to-pay, SSDs, microwave ovens, elevators, QR codes, noise-cancelling earbuds).
+5. **Visual potential:** the mechanism must be showable as an exploded view, cutaway or flowing diagram per §3. If it can't be drawn, it can't be our video.
+
+**Adapt, never copy:** the *topic* and the "How does X work?" *format* are proven public demand — the script, research, facts, wording and visuals must be 100% original, researched fresh for this channel. Never reuse a reference channel's script, structure line-by-line, art or thumbnail composition.
+For every new episode, state in the package which reference hit proves the topic's demand (one line: "Topic proof: Branch Education, Bluetooth, ~10.1M views").
+
+---
+
+## 6) THE KINDNESS CTA — subscribe & like, heart-touching, never begging
+
+The owner wants viewers asked to Like and Subscribe in a way that touches the heart — kindness, not pressure. Rules:
+
+- **Once per long video**, at the end, after the recap (plus, optionally, ONE soft line mid-video after the mechanism reveal). **Never in the first 30 seconds, never repeated, never "smash that button".**
+- The frame is a **kindness loop**: their click carries free learning to one more person — gratitude first, request second.
+- Use this end script (voiceover + the same words as soft on-screen text):
+
+> "If this video taught you even one new thing, please pass the kindness on: tap Like, so YouTube carries it to one more curious mind — and Subscribe, so we can keep learning together. This is a small channel, and we make every video slowly, with care, for people like you. Your one small click truly keeps us going. Thank you — see you in the next one."
+
+- Optional soft mid-video line (only if the episode runs long):
+
+> "A small pause — if you're enjoying this, a Like and a Subscribe is the kindest way to support free learning like this. Now, back to how it works."
+
+- **Shorts version** (last 3 seconds, voiceover + on-screen text):
+
+> "Made with care, for curious minds. Subscribe — and thank you for your kindness."
+
+---
+
+## 7) PER-EPISODE PACKAGE CHECKLIST (Claude delivers all of this)
+
+- [ ] Topic chosen per §5, with the one-line topic-proof note (which reference hit proves demand)
+- [ ] Long video (~8 min) built with the 5-step workflow in §1, ending with the kindness CTA in §6 (and the Shorts CTA in all 3 Shorts)
 - [ ] 3 Shorts (best mechanism moments, visual hook in first 2s)
 - [ ] thumbnail_A.png (uploaded version) + thumbnail_B.png (Test & Compare variant) — both per §2
 - [ ] upload_package.json with exact title / description / tags (title written to pair with thumbnail_A, not repeat it)
