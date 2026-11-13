@@ -55,6 +55,13 @@ The owner is explicit: **people click because of the thumbnail.** Treat the thum
 - **Always deliver TWO variants:** thumbnail_A (object close-up — this is the one uploaded) and thumbnail_B (comparison/diagram angle — kept for YouTube Test & Compare).
 - Keep the series look identical across episodes: same font, same palette, same glow, subject framed the same way. A returning viewer should recognise a Tech Explained thumbnail in under a second.
 
+**What the top channels' real thumbnails actually do** (studied 13 Nov 2026 from Branch Education's "How does Bluetooth Work?" — 10.4M views — and Jared Owen's "How does a Spacesuit work?" — 4.6M views; the owner rejected clean flat-CGI thumbnails as unrealistic and boring, so follow THESE rules):
+- **Photorealistic, real materials.** Real textures (fabric, copper, matte plastic, foil), cinematic lighting, photographic depth. NO flat vector look, NO toy-like CGI, NO empty gradient void backgrounds — use a textured, atmospheric background (dark warm charcoal, real sky, real surfaces).
+- **The subject FILLS the frame**, edge to edge, shot close. If it looks small, it fails.
+- **Show the mechanism BIG:** an exploded row of the device's real parts (Branch's earbud) or one extreme close-up cutaway detail next to the whole object (Jared's suit leg, layers fanned out). The inside-detail is the hero, not decoration.
+- **One warm accent colour** (orange/red) against the cool scene — the hook word, or one arrow from the whole object to its detail. Only one accent; everything else stays natural.
+- **Text is either the actual question or a specific number hook** ("11 Layers", "550 KM UP") — huge, clean, bold; never a vague slogan.
+
 ---
 
 ## 3) VISUAL STANDARDS — what "better visuals" means on this channel
@@ -113,19 +120,16 @@ For every new episode, state in the package which reference hit proves the topic
 
 The owner wants viewers asked to Like and Subscribe in a way that touches the heart — kindness, not pressure. Rules:
 
-- **Once per long video**, at the end, after the recap (plus, optionally, ONE soft line mid-video after the mechanism reveal). **Never in the first 30 seconds, never repeated, never "smash that button".**
-- The frame is a **kindness loop**: their click carries free learning to one more person — gratitude first, request second.
-- Use this end script (voiceover + the same words as soft on-screen text):
+- **Once per long video**, at the end, after the recap. **Never in the first 30 seconds, never repeated, never "smash that button".**
+- **SHORT TEXT ONLY** (owner's preference, 13 Nov 2026): the ask must be one short line — long emotional speeches are out. Kindness stays, length goes.
+- End of long video — voiceover (one line) + on-screen text:
 
-> "If this video taught you even one new thing, please pass the kindness on: tap Like, so YouTube carries it to one more curious mind — and Subscribe, so we can keep learning together. This is a small channel, and we make every video slowly, with care, for people like you. Your one small click truly keeps us going. Thank you — see you in the next one."
-
-- Optional soft mid-video line (only if the episode runs long):
-
-> "A small pause — if you're enjoying this, a Like and a Subscribe is the kindest way to support free learning like this. Now, back to how it works."
+> Voiceover: "A Like and Subscribe from you keeps us going. Thank you for your kindness."
+> On-screen text: **LIKE • SUBSCRIBE • THANK YOU**
 
 - **Shorts version** (last 3 seconds, voiceover + on-screen text):
 
-> "Made with care, for curious minds. Subscribe — and thank you for your kindness."
+> "Subscribe — thank you!"
 
 ---
 
