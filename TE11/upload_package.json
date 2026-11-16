@@ -1,0 +1,27 @@
+{
+ "episode": "TE11",
+ "long_video": {
+  "file": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/TE11_upload.mp4",
+  "thumbnail": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/thumb_a.png",
+  "thumbnail_alt": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/thumb_b.png",
+  "title": "How Does Bluetooth Work? (Why Your Earbuds Have No Wires)",
+  "description": "Your phone and your earbuds are not connected by anything you can see. So how does the music get there? In this video we open up the radio chip, follow the signal through the air, see how Bluetooth hops between 79 channels 1,600 times a second to dodge Wi-Fi and microwave noise, how two devices find and pair with each other, how far it reaches, and what Bluetooth Low Energy changes.\n\nChapters\n00:00 Intro: no wires, how?\n00:15 Inside your phone\n00:27 Radio waves at 2.4 GHz\n00:43 How data rides a wave\n00:59 A crowded radio band\n01:13 79 channels, 1,600 hops a second\n01:29 Dodging interference\n01:42 How two devices find each other\n01:55 Pairing and the secret key\n02:08 One leader, up to seven devices\n02:21 Power classes and range\n02:38 Bluetooth Low Energy\n02:54 Back inside your earbud\n03:05 Recap\n\nKey facts (checked November 2026):\n- Bluetooth Classic uses the 2.4 GHz band, 2402-2480 MHz, split into 79 channels\n- It hops to a new channel 1,600 times a second (every 625 microseconds)\n- Adaptive frequency hopping avoids busy channels; at least 20 channels stay in use\n- One leader device can talk to up to 7 active devices in a piconet\n- Class 1 reaches about 100 m (100 mW), Class 2 about 10 m (2.5 mW), Class 3 about 1 m (1 mW)\n- Bluetooth Low Energy uses 40 channels, 3 of them for advertising\n\nSources\n- Bluetooth SIG core specification summaries (via MathWorks Bluetooth Toolbox docs)\n- EverythingRF: How Bluetooth Avoids Wi-Fi Interference (Sep 2026)\n- SparkFun: Bluetooth Basics\n- Argenox: Intro to Bluetooth Classic\n\nVoiceover: AI-generated narration. Script researched and written for Tech Explained.\nMusic and stock footage: Mixkit (mixkit.co).\n\nSubscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.\n\nNo sponsors or paid promotion in this video. Specs and figures are from the sources listed above.\n\n#techexplained #bluetooth #howitworks",
+  "tags": [
+   "how does bluetooth work",
+   "bluetooth explained",
+   "how bluetooth works",
+   "wireless earbuds",
+   "frequency hopping",
+   "2.4 ghz",
+   "bluetooth pairing",
+   "bluetooth low energy",
+   "bluetooth range",
+   "tech explained",
+   "how it works"
+  ],
+  "category": "Science & Technology",
+  "schedule_pkt": "2026-11-19 01:00"
+ },
+ "shorts": [],
+ "note": "Shorts for TE11 pending"
+}

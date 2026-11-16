@@ -1,4 +1,30 @@
 {
  "channel": "Tech Explained",
- "episodes": []
+ "episodes": [
+  {
+   "folder": "TE11 - How Does Bluetooth Work?",
+   "files": [
+    {
+     "name": "TE11_upload.mp4",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/TE11_upload.mp4"
+    },
+    {
+     "name": "thumb_a.png",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/thumb_a.png"
+    },
+    {
+     "name": "thumb_b.png",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/thumb_b.png"
+    },
+    {
+     "name": "upload_package.json",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/upload_package.json"
+    },
+    {
+     "name": "upload.txt",
+     "url": "https://raw.githubusercontent.com/saqibgulqa-collab/tech-explained-videos/main/TE11/upload.txt"
+    }
+   ]
+  }
+ ]
 }

@@ -1,0 +1,147 @@
+{
+ "id": "TE11",
+ "title": "How Bluetooth Works",
+ "topic_proof": "Branch Education, How does Bluetooth Work?, ~10M views",
+ "sources": [
+  "Bluetooth SIG core spec summaries via MathWorks Bluetooth Toolbox docs",
+  "EverythingRF: How Bluetooth Avoids Wi-Fi Interference (Sep 2026)",
+  "SparkFun Bluetooth Basics",
+  "Argenox: Intro to Bluetooth Classic"
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "visual": "Close-up phone + earbud, dark studio; glowing hop marks between them",
+   "t": [
+    "Your phone and your earbuds are not connected by anything you can see.",
+    "Yet they are changing radio channels sixteen hundred times every second.",
+    "Why would a wireless link need to do that?"
+   ]
+  },
+  {
+   "id": "s02",
+   "visual": "Phone opens up, exploded: battery, board, Bluetooth chip, antenna highlighted",
+   "t": [
+    "Let's open the phone and find the part that does the talking.",
+    "Here is the board, and on it, a small Bluetooth chip.",
+    "Next to it sits a thin metal antenna."
+   ]
+  },
+  {
+   "id": "s03",
+   "visual": "Chip -> antenna; radio waves leave as rings; 2.4 GHz label",
+   "t": [
+    "The chip turns data into an electrical signal.",
+    "The antenna sends it out as a radio wave at about two point four gigahertz.",
+    "Bluetooth uses frequencies between two thousand four hundred and two thousand four hundred eighty megahertz."
+   ]
+  },
+  {
+   "id": "s04",
+   "visual": "Signal wave shifting slightly higher/lower for 1 and 0",
+   "t": [
+    "To carry data, the chip nudges the frequency very slightly.",
+    "A little higher means a one.",
+    "A little lower means a zero.",
+    "The receiver in the earbud simply listens for those tiny shifts."
+   ]
+  },
+  {
+   "id": "s05",
+   "visual": "Crowded band: Wi-Fi router, microwave oven, other devices flooding the same band",
+   "t": [
+    "But this band is crowded.",
+    "Wi Fi routers use it.",
+    "So do microwave ovens.",
+    "So do thousands of other devices.",
+    "One fixed channel would be constantly hit by interference."
+   ]
+  },
+  {
+   "id": "s06",
+   "visual": "79 vertical channel bars, glowing marker hopping in a pseudo-random pattern; clock 625 microseconds",
+   "t": [
+    "So Bluetooth splits the band into seventy nine channels.",
+    "Your phone and earbud jump to a new channel every six hundred twenty five microseconds.",
+    "That is about sixteen hundred jumps every second, following a pattern only the two of them know."
+   ]
+  },
+  {
+   "id": "s07",
+   "visual": "Wi-Fi block lights up on channels, hop pattern skips them (adaptive hopping)",
+   "t": [
+    "If one channel keeps getting blocked, they stop using it.",
+    "This is called adaptive frequency hopping.",
+    "The devices must keep using at least twenty good channels."
+   ]
+  },
+  {
+   "id": "s08",
+   "visual": "Phone sends inquiry waves; earbud replies with its address",
+   "t": [
+    "But how do two strangers find each other?",
+    "First, your phone sends out an inquiry.",
+    "Any device listening answers with its address.",
+    "Then the phone pages that address, and the connection forms."
+   ]
+  },
+  {
+   "id": "s09",
+   "visual": "Two chips exchange a glowing key; lock closes",
+   "t": [
+    "Pairing is a one time handshake.",
+    "The two devices agree on a secret key and store it.",
+    "Next time, they recognise each other and reconnect automatically."
+   ]
+  },
+  {
+   "id": "s10",
+   "visual": "Phone at centre, up to 7 devices around (piconet star)",
+   "t": [
+    "One device becomes the leader, and sets the clock and the hopping pattern.",
+    "The others follow it.",
+    "This group is called a pico net.",
+    "A single leader can serve up to seven active devices."
+   ]
+  },
+  {
+   "id": "s11",
+   "visual": "Three concentric range rings: 100 m, 10 m, 1 m with power labels",
+   "t": [
+    "Range depends on power.",
+    "Class one allows a hundred milliwatts, and about a hundred metres in open space.",
+    "Class two uses two point five milli watts, which is about ten metres.",
+    "Class three uses one milliwatt, which is about one metre."
+   ]
+  },
+  {
+   "id": "s12",
+   "visual": "BLE: 40 thin channels, 3 highlighted advertising channels, sensor sleeping then pulsing",
+   "t": [
+    "Fitness bands use a lighter version, called Bluetooth Low Energy.",
+    "It has forty wider channels.",
+    "Three are used only to announce a device.",
+    "The radio sleeps most of the time, so a small battery lasts for a very long time."
+   ]
+  },
+  {
+   "id": "s13",
+   "visual": "Earbud exploded: antenna -> chip -> driver; audio path",
+   "t": [
+    "Back in your earbud, the antenna catches the signal.",
+    "The chip decodes it into music.",
+    "And the speaker driver turns it into sound you can hear."
+   ]
+  },
+  {
+   "id": "s14",
+   "visual": "Zoom out to whole phone and earbud; end card",
+   "t": [
+    "So Bluetooth is a fast, quiet conversation, hopping across seventy nine channels.",
+    "All of it, inside a chip smaller than your fingernail.",
+    "A Like and Subscribe from you keeps us going.",
+    "Thank you for your kindness."
+   ]
+  }
+ ]
+}

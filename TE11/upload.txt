@@ -1,0 +1,46 @@
+TE11 long video
+Schedule: 19 Nov 2026 01:00 PKT
+Title: How Does Bluetooth Work? (Why Your Earbuds Have No Wires)
+Tags: how does bluetooth work, bluetooth explained, how bluetooth works, wireless earbuds, frequency hopping, 2.4 ghz, bluetooth pairing, bluetooth low energy, bluetooth range, tech explained, how it works
+
+Description:
+Your phone and your earbuds are not connected by anything you can see. So how does the music get there? In this video we open up the radio chip, follow the signal through the air, see how Bluetooth hops between 79 channels 1,600 times a second to dodge Wi-Fi and microwave noise, how two devices find and pair with each other, how far it reaches, and what Bluetooth Low Energy changes.
+
+Chapters
+00:00 Intro: no wires, how?
+00:15 Inside your phone
+00:27 Radio waves at 2.4 GHz
+00:43 How data rides a wave
+00:59 A crowded radio band
+01:13 79 channels, 1,600 hops a second
+01:29 Dodging interference
+01:42 How two devices find each other
+01:55 Pairing and the secret key
+02:08 One leader, up to seven devices
+02:21 Power classes and range
+02:38 Bluetooth Low Energy
+02:54 Back inside your earbud
+03:05 Recap
+
+Key facts (checked November 2026):
+- Bluetooth Classic uses the 2.4 GHz band, 2402-2480 MHz, split into 79 channels
+- It hops to a new channel 1,600 times a second (every 625 microseconds)
+- Adaptive frequency hopping avoids busy channels; at least 20 channels stay in use
+- One leader device can talk to up to 7 active devices in a piconet
+- Class 1 reaches about 100 m (100 mW), Class 2 about 10 m (2.5 mW), Class 3 about 1 m (1 mW)
+- Bluetooth Low Energy uses 40 channels, 3 of them for advertising
+
+Sources
+- Bluetooth SIG core specification summaries (via MathWorks Bluetooth Toolbox docs)
+- EverythingRF: How Bluetooth Avoids Wi-Fi Interference (Sep 2026)
+- SparkFun: Bluetooth Basics
+- Argenox: Intro to Bluetooth Classic
+
+Voiceover: AI-generated narration. Script researched and written for Tech Explained.
+Music and stock footage: Mixkit (mixkit.co).
+
+Subscribe to Tech Explained for clear, fact-checked explainers on the tech you use every day.
+
+No sponsors or paid promotion in this video. Specs and figures are from the sources listed above.
+
+#techexplained #bluetooth #howitworks
